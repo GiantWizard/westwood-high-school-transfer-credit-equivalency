@@ -1,0 +1,1071 @@
+{
+  "apEquivalencies": [
+    {
+      "examName": "AP 2-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARTS 13133"
+      ]
+    },
+    {
+      "examName": "AP 3-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARTS 13233"
+      ]
+    },
+    {
+      "examName": "AP African American Studies",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "AAST 10003"
+      ]
+    },
+    {
+      "examName": "AP Art History",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARHS 1003"
+      ]
+    },
+    {
+      "examName": "AP Art History",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "ARHS 100H3",
+        "ARHS 20003"
+      ]
+    },
+    {
+      "examName": "AP Art History",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "ARHS 100H3",
+        "ARHS 20003",
+        "ARHS 21003"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "BIOL 1524"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "BIOL 10103",
+        "BIOL 10101"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "BIOL 101H3",
+        "BIOL 101H1"
+      ]
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MATH 24004"
+      ]
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "MATH 240H4"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MATH 24004",
+        "MATH 25004"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "MATH 240H4",
+        "MATH 250H4"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CHEM 10003",
+        "CHEM 10001"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "CHEM 14103",
+        "CHEM 14101",
+        "CHEM 14203",
+        "CHEM 14201"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "CHEM 14103",
+        "CHEM 14101",
+        "CHEM 142H3",
+        "CHEM 142H1"
+      ]
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CSCE 20004"
+      ]
+    },
+    {
+      "examName": "AP Drawing",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARTS 10133"
+      ]
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENGL 10103"
+      ]
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 5,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENGL 101H3"
+      ]
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENGL 11103"
+      ]
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 5,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENGL 111H3"
+      ]
+    },
+    {
+      "examName": "AP Environmental Science",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GEOL 11203",
+        "GEOL 11201"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "FREN 10203",
+        "FREN 20103"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "FREN 10203",
+        "FREN 20103",
+        "FREN 20203"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "FREN 10203",
+        "FREN 20103",
+        "FREN 20203",
+        "FREN 30003"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GERM 10203",
+        "GERM 20103"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "GERM 10203",
+        "GERM 20103",
+        "GERM 20203"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "GERM 10203",
+        "GERM 20103",
+        "GERM 20203",
+        "GERM 30003"
+      ]
+    },
+    {
+      "examName": "AP Human Geography",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GEOG 11103"
+      ]
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECON 21003"
+      ]
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECON 22003"
+      ]
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MUSC 10003",
+        "MUTH 10003"
+      ]
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "MUSC 10003",
+        "MUTH 10003",
+        "MUTH 16003",
+        "MUTH 16201"
+      ]
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 5,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "MUSC 10003",
+        "MUTH 10003",
+        "MUTH 16003",
+        "MUTH 16201",
+        "MUTH 16301",
+        "MUTH 26003"
+      ]
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 20103",
+        "PHYS 20101"
+      ]
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 20304"
+      ]
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 5,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 203H4"
+      ]
+    },
+    {
+      "examName": "AP Physics 2",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 20203",
+        "PHYS 20201"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 20404"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 5,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 204H4"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 20304"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 5,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 203H4"
+      ]
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MATH 13004"
+      ]
+    },
+    {
+      "examName": "AP Psychology",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PSYC 20003"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "SPAN 10203",
+        "SPAN 20103"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 4,
+      "creditHours": 9,
+      "equivalentCourses": [
+        "SPAN 10203",
+        "SPAN 20103",
+        "SPAN 20203"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 5,
+      "creditHours": 12,
+      "equivalentCourses": [
+        "SPAN 10203",
+        "SPAN 20103",
+        "SPAN 20203",
+        "SPAN 30003"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "SPAN 202H3"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 5,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "SPAN 31003"
+      ]
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MATH 21003"
+      ]
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MATH 21003",
+        "STAT 28233"
+      ]
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PLSC 20003"
+      ]
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 5,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PLSC 200H3"
+      ]
+    },
+    {
+      "examName": "AP United States History",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "HIST 20003",
+        "HIST 20103"
+      ]
+    },
+    {
+      "examName": "AP United States History",
+      "score": 5,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "HIST 20003",
+        "HIST 20103"
+      ]
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "HIST 11193",
+        "HIST 11293"
+      ]
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 5,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "HIST 11193",
+        "HIST 11293"
+      ]
+    }
+  ],
+  "courseEquivalencies": [
+    {
+      "courseCode": "ACCT 2301",
+      "courseTitle": "Principles of Accounting I-Financial",
+      "creditHours": 3,
+      "equivalentCourse": "ACCT 20103 ACCOUNTING PRINCIPLES"
+    },
+    {
+      "courseCode": "ACCT 2302",
+      "courseTitle": "Principles of Accounting II-Managerial",
+      "creditHours": 3,
+      "equivalentCourse": "ACCT 20203 ACCT PRINCIPLES II"
+    },
+    {
+      "courseCode": "ANTH 2351",
+      "courseTitle": "Cultural Anthropology",
+      "creditHours": 3,
+      "equivalentCourse": "ANTH 10203 INTRO TO CULTURAL ANTHROPOLOGY"
+    },
+    {
+      "courseCode": "ARTS 1301",
+      "courseTitle": "Art Appreciation",
+      "creditHours": 3,
+      "equivalentCourse": "ARHS 10003 BASIC COURSE: ART LECTURE"
+    },
+    {
+      "courseCode": "ARTS 1316",
+      "courseTitle": "Drawing I",
+      "creditHours": 3,
+      "equivalentCourse": "ARTS 1990T ART TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ARTS 2316",
+      "courseTitle": "Painting I",
+      "creditHours": 3,
+      "equivalentCourse": "ARTS 2990T ART TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ARTS 2326",
+      "courseTitle": "Sculpture I",
+      "creditHours": 3,
+      "equivalentCourse": "ARTS 2990T ART TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ARTS 2346",
+      "courseTitle": "Ceramics I",
+      "creditHours": 3,
+      "equivalentCourse": "ARTS 2990T ART TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ASTR 1303",
+      "courseTitle": "Stellar Astronomy",
+      "creditHours": 3,
+      "equivalentCourse": "ASTR 199TT ASTR TRANSFER LECTURE"
+    },
+    {
+      "courseCode": "ASTR 1403",
+      "courseTitle": "Stellar Astronomy with Lab",
+      "creditHours": 4,
+      "equivalentCourse": "ASTR 199TT & 198TT ASTR TRANSFER LECTURE & LAB"
+    },
+    {
+      "courseCode": "BIOL 1322",
+      "courseTitle": "Contemporary Issues in Nutrition",
+      "creditHours": 3,
+      "equivalentCourse": "NUTR 12103 FUNDAMENTALS OF NUTRITION"
+    },
+    {
+      "courseCode": "BIOL 1406",
+      "courseTitle": "Cellular and Molecular Biology",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 10103 & 10101 PRINCIPLES OF BIOLOGY & LAB"
+    },
+    {
+      "courseCode": "BIOL 1407",
+      "courseTitle": "Structure and Function of Organisms",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 199TT & 198TT TRANSFER BIOLOGY LECTURE & LAB"
+    },
+    {
+      "courseCode": "BIOL 2401",
+      "courseTitle": "Anatomy & Physiology I",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 299TT & 298TT TRANSFER BIOLOGY LECTURE & LAB"
+    },
+    {
+      "courseCode": "BIOL 2402",
+      "courseTitle": "Anatomy & Physiology II",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 299TT & 298TT TRANSFER BIOLOGY LECTURE & LAB"
+    },
+    {
+      "courseCode": "BIOL 2420",
+      "courseTitle": "Microbiology for the Health Sciences",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 20003 & 20001 GENERAL MICROBIOLOGY & LAB"
+    },
+    {
+      "courseCode": "BIOL 2421",
+      "courseTitle": "Microbiology",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 20003 & 20001 GENERAL MICROBIOLOGY & LAB"
+    },
+    {
+      "courseCode": "BUSI 1301",
+      "courseTitle": "Business Principles",
+      "creditHours": 3,
+      "equivalentCourse": "BUSI 1990T BUSI TRANSFER COURSE"
+    },
+    {
+      "courseCode": "BUSI 2301",
+      "courseTitle": "Business Law",
+      "creditHours": 3,
+      "equivalentCourse": "BLAW 20003 LEGAL ENVIRON OF BUSINESS"
+    },
+    {
+      "courseCode": "CHEM 1105",
+      "courseTitle": "Introductory Chemistry I Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHEM 14101 UNIVERSITY CHEMISTRY I LAB"
+    },
+    {
+      "courseCode": "CHEM 1111",
+      "courseTitle": "General Chemistry I Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHEM 14101 UNIVERSITY CHEMISTRY I LAB"
+    },
+    {
+      "courseCode": "CHEM 1112",
+      "courseTitle": "General Chemistry II Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHEM 14201 UNIVERSITY CHEMISTRY II LAB"
+    },
+    {
+      "courseCode": "CHEM 1305",
+      "courseTitle": "Introductory Chemistry I Lecture",
+      "creditHours": 3,
+      "equivalentCourse": "CHEM 14103 UNIVERSITY CHEM I"
+    },
+    {
+      "courseCode": "CHEM 1311",
+      "courseTitle": "General Chemistry I Lecture",
+      "creditHours": 3,
+      "equivalentCourse": "CHEM 14103 UNIVERSITY CHEM I"
+    },
+    {
+      "courseCode": "CHEM 1312",
+      "courseTitle": "General Chemistry II Lecture",
+      "creditHours": 3,
+      "equivalentCourse": "CHEM 14203 UNIVERSITY CHEMISTRY II"
+    },
+    {
+      "courseCode": "COSC 1337",
+      "courseTitle": "Programming Fundamentals II",
+      "creditHours": 4,
+      "equivalentCourse": "CSCE 20004 PROGRAMMING FOUNDATIONS I"
+    },
+    {
+      "courseCode": "DRAM 1310",
+      "courseTitle": "Introduction to Theatre",
+      "creditHours": 3,
+      "equivalentCourse": "THTR 10003 THEATRE APPRECIATION"
+    },
+    {
+      "courseCode": "DRAM 1351",
+      "courseTitle": "Acting I",
+      "creditHours": 3,
+      "equivalentCourse": "THTR 1990T THEATRE TRANSFER COURSE"
+    },
+    {
+      "courseCode": "DRAM 1352",
+      "courseTitle": "Acting II",
+      "creditHours": 3,
+      "equivalentCourse": "THTR 1990T THEATRE TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ECON 2301",
+      "courseTitle": "Principles of Macroeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECON 21003 PRINC OF MACROECONOMICS"
+    },
+    {
+      "courseCode": "ECON 2302",
+      "courseTitle": "Principles of Microeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECON 22003 PRINC OF MICROECONOMICS"
+    },
+    {
+      "courseCode": "EDUC 1300",
+      "courseTitle": "Effective Learning-Strategies for College Success",
+      "creditHours": 0,
+      "equivalentCourse": "NOTR 99999 NON-TRANSFERABLE COURSE"
+    },
+    {
+      "courseCode": "EDUC 1301",
+      "courseTitle": "Introduction to the Teaching Profession",
+      "creditHours": 3,
+      "equivalentCourse": "CIED 1990T CIED TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ENGL 1301",
+      "courseTitle": "English Composition I",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 10103 COMPOSITION I"
+    },
+    {
+      "courseCode": "ENGL 1302",
+      "courseTitle": "English Composition II",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 10203 COMPOSITION II"
+    },
+    {
+      "courseCode": "ENGL 2307",
+      "courseTitle": "Beginning Creative Writing",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 20103 CREATIVE WRITING I"
+    },
+    {
+      "courseCode": "ENGL 2311",
+      "courseTitle": "Technical & Business Writing",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 2990T ENGL TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ENGL 2322",
+      "courseTitle": "British Literature I",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 299TT TRANSFERABLE ENGLISH"
+    },
+    {
+      "courseCode": "ENGL 2323",
+      "courseTitle": "British Literature II",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 198TT TRANSFER LITERATURE COURSE"
+    },
+    {
+      "courseCode": "ENGL 2327",
+      "courseTitle": "American Literature I",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 2990T ENGL TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ENGL 2328",
+      "courseTitle": "American Literature II",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 2990T ENGL TRANSFER COURSE"
+    },
+    {
+      "courseCode": "ENVR 1301",
+      "courseTitle": "Introduction to Environmental Science",
+      "creditHours": 3,
+      "equivalentCourse": "ENSC 10003 ENVIRONMENTAL SCIENCE"
+    },
+    {
+      "courseCode": "FREN 1411",
+      "courseTitle": "French I",
+      "creditHours": 3,
+      "equivalentCourse": "FREN 10103 ELEMENTARY FRENCH I"
+    },
+    {
+      "courseCode": "FREN 1412",
+      "courseTitle": "French II",
+      "creditHours": 3,
+      "equivalentCourse": "FREN 10203 ELEMENTARY FRENCH II"
+    },
+    {
+      "courseCode": "FREN 2311",
+      "courseTitle": "French III",
+      "creditHours": 3,
+      "equivalentCourse": "FREN 20103 INTERMEDIATE FRENCH I"
+    },
+    {
+      "courseCode": "FREN 2312",
+      "courseTitle": "French IV",
+      "creditHours": 3,
+      "equivalentCourse": "FREN 20203 INTERMEDIATE FRENCH II"
+    },
+    {
+      "courseCode": "GERM 1411",
+      "courseTitle": "German I",
+      "creditHours": 3,
+      "equivalentCourse": "GERM 10103 ELEMENTARY GERMAN I"
+    },
+    {
+      "courseCode": "GERM 1412",
+      "courseTitle": "German II",
+      "creditHours": 3,
+      "equivalentCourse": "GERM 10203 ELEMENTARY GERMAN II"
+    },
+    {
+      "courseCode": "GOVT 2305",
+      "courseTitle": "United State Government",
+      "creditHours": 3,
+      "equivalentCourse": "PLSC 20003 AMERICAN NATIONAL GOVT"
+    },
+    {
+      "courseCode": "GOVT 2306",
+      "courseTitle": "Texas State and Local Government",
+      "creditHours": 3,
+      "equivalentCourse": "PLSC 299TT TRANSFER PLSC US HISTORY"
+    },
+    {
+      "courseCode": "HIST 1301",
+      "courseTitle": "United States History I",
+      "creditHours": 3,
+      "equivalentCourse": "HIST 20003 HIST AMER PEOPLE TO 1877"
+    },
+    {
+      "courseCode": "HIST 1302",
+      "courseTitle": "United States History II",
+      "creditHours": 3,
+      "equivalentCourse": "HIST 20103 HIST/AMER PEOPLE 1877-PR"
+    },
+    {
+      "courseCode": "HUMA 1301",
+      "courseTitle": "Humanities: Prehistory to Renaissance",
+      "creditHours": 3,
+      "equivalentCourse": "HUMN 1990T HUMN TRANSFER COURSE"
+    },
+    {
+      "courseCode": "HUMA 1302",
+      "courseTitle": "Humanities: Renaissance to Present",
+      "creditHours": 3,
+      "equivalentCourse": "HIST 11293 INST and IDEAS WORLD CIV II"
+    },
+    {
+      "courseCode": "JAPN 1411",
+      "courseTitle": "Japanese I",
+      "creditHours": 3,
+      "equivalentCourse": "JAPN 1990T JAPN TRANSFER COURSE"
+    },
+    {
+      "courseCode": "JAPN 1412",
+      "courseTitle": "Japanese II",
+      "creditHours": 3,
+      "equivalentCourse": "JAPN 1990T JAPN TRANSFER COURSE"
+    },
+    {
+      "courseCode": "KINE 1301",
+      "courseTitle": "Foundations of Physical Education",
+      "creditHours": 3,
+      "equivalentCourse": "PHED 1990T PHED TRANSFER COURSE"
+    },
+    {
+      "courseCode": "KINE 1304",
+      "courseTitle": "Personal Health",
+      "creditHours": 3,
+      "equivalentCourse": "PBHL 1990T PBHL TRANSFER COURSE"
+    },
+    {
+      "courseCode": "KINE 1306",
+      "courseTitle": "First Aid and Safety",
+      "creditHours": 3,
+      "equivalentCourse": "PBHL 1990T PBHL TRANSFER COURSE"
+    },
+    {
+      "courseCode": "KINE 1321",
+      "courseTitle": "Coaching",
+      "creditHours": 3,
+      "equivalentCourse": "PHED 1990T PHED TRANSFER COURSE"
+    },
+    {
+      "courseCode": "LATI 1411",
+      "courseTitle": "Latin I",
+      "creditHours": 3,
+      "equivalentCourse": "LATN 10103 ELEMENTARY LATIN I"
+    },
+    {
+      "courseCode": "LATI 1412",
+      "courseTitle": "Latin II",
+      "creditHours": 3,
+      "equivalentCourse": "LATN 10203 ELEMENTARY LATIN II"
+    },
+    {
+      "courseCode": "MATH 1314",
+      "courseTitle": "College Algebra",
+      "creditHours": 3,
+      "equivalentCourse": "MATH 11003 COLLEGE ALGEBRA"
+    },
+    {
+      "courseCode": "MATH 1324",
+      "courseTitle": "Mathematics for Business and Economics",
+      "creditHours": 3,
+      "equivalentCourse": "MATH 20503 FINITE MATHEMATICS"
+    },
+    {
+      "courseCode": "MATH 1332",
+      "courseTitle": "College Mathematics",
+      "creditHours": 3,
+      "equivalentCourse": "MATH 11103 QUANTITATIVE REASONING"
+    },
+    {
+      "courseCode": "MATH 1342",
+      "courseTitle": "Elementary Statistics",
+      "creditHours": 3,
+      "equivalentCourse": "MATH 21003 PRINCIPLES OF STATISTICS"
+    },
+    {
+      "courseCode": "MATH 1414",
+      "courseTitle": "College Algebra for Precalculus",
+      "creditHours": 3,
+      "equivalentCourse": "MATH 11003 COLLEGE ALGEBRA"
+    },
+    {
+      "courseCode": "MATH 2305",
+      "courseTitle": "Discrete Mathematics",
+      "creditHours": 3,
+      "equivalentCourse": "MATH 299TT TRANSFER MATH COURSE"
+    },
+    {
+      "courseCode": "MATH 2412",
+      "courseTitle": "Precalculus: Functions and Graphs",
+      "creditHours": 3,
+      "equivalentCourse": "MATH 12003 PLANE TRIGONOMETRY"
+    },
+    {
+      "courseCode": "MATH 2413",
+      "courseTitle": "Calculus I",
+      "creditHours": 4,
+      "equivalentCourse": "MATH 24004 CALCULUS I"
+    },
+    {
+      "courseCode": "MATH 2414",
+      "courseTitle": "Calculus II",
+      "creditHours": 4,
+      "equivalentCourse": "MATH 25004 CALCULUS II"
+    },
+    {
+      "courseCode": "MATH 2415",
+      "courseTitle": "Calculus III",
+      "creditHours": 4,
+      "equivalentCourse": "MATH 26004 CALCULUS III"
+    },
+    {
+      "courseCode": "MUSI 1306",
+      "courseTitle": "Music Appreciation",
+      "creditHours": 3,
+      "equivalentCourse": "MUSC 10003 EXPERIENCING MUSIC"
+    },
+    {
+      "courseCode": "MUSI 1310",
+      "courseTitle": "American Music",
+      "creditHours": 3,
+      "equivalentCourse": "MUSC 13303 POPULAR MUSIC"
+    },
+    {
+      "courseCode": "PHYS 1401",
+      "courseTitle": "General College Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 20103 & 20101 COLLEGE PHYSICS I & LAB"
+    },
+    {
+      "courseCode": "PHYS 1402",
+      "courseTitle": "General College Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 20203 & 20201 COLLEGE PHYSICS II & LAB"
+    },
+    {
+      "courseCode": "PHYS 2425",
+      "courseTitle": "Engineering Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 20304 UNIVERSITY PHYSICS I"
+    },
+    {
+      "courseCode": "PHYS 2426",
+      "courseTitle": "Engineering Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 20404 UNIVERSITY PHYSICS II"
+    },
+    {
+      "courseCode": "PSYC 2301",
+      "courseTitle": "Introduction to Psychology",
+      "creditHours": 3,
+      "equivalentCourse": "PSYC 20003 GENERAL PSYCHOLOGY"
+    },
+    {
+      "courseCode": "SGNL 1401",
+      "courseTitle": "American Sign Language (ASL) I",
+      "creditHours": 3,
+      "equivalentCourse": "TRAN 1990T TRANSFERABLE COURSE"
+    },
+    {
+      "courseCode": "SGNL 1402",
+      "courseTitle": "American Sign Language (ASL) II",
+      "creditHours": 3,
+      "equivalentCourse": "CSDI 1990T CDIS TRANSFER COURSE"
+    },
+    {
+      "courseCode": "SOCI 1301",
+      "courseTitle": "Introduction to Sociology",
+      "creditHours": 3,
+      "equivalentCourse": "SOCI 10103 GENERAL SOCIOLOGY"
+    },
+    {
+      "courseCode": "SOCW 2361",
+      "courseTitle": "Introduction to Social Work",
+      "creditHours": 3,
+      "equivalentCourse": "TRAN 2990T TRANSFERABLE COURSE"
+    },
+    {
+      "courseCode": "SPAN 1411",
+      "courseTitle": "Spanish I",
+      "creditHours": 3,
+      "equivalentCourse": "SPAN 10103 ELEMENTARY SPANISH I"
+    },
+    {
+      "courseCode": "SPAN 1412",
+      "courseTitle": "Spanish II",
+      "creditHours": 3,
+      "equivalentCourse": "SPAN 10203 ELEMENTARY SPANISH II"
+    },
+    {
+      "courseCode": "SPAN 2311",
+      "courseTitle": "Spanish III",
+      "creditHours": 3,
+      "equivalentCourse": "SPAN 20103 INTERMEDIATE SPANISH I"
+    },
+    {
+      "courseCode": "SPAN 2312",
+      "courseTitle": "Spanish IV",
+      "creditHours": 3,
+      "equivalentCourse": "SPAN 20203 INTERMEDIATE SPANISH II"
+    },
+    {
+      "courseCode": "SPCH 1311",
+      "courseTitle": "Introduction to Speech Communication",
+      "creditHours": 3,
+      "equivalentCourse": "SPCH 10003 PUBLIC SPEAKING"
+    },
+    {
+      "courseCode": "SPCH 1315",
+      "courseTitle": "Public Speaking",
+      "creditHours": 3,
+      "equivalentCourse": "SPCH 10003 PUBLIC SPEAKING"
+    },
+    {
+      "courseCode": "SPCH 1318",
+      "courseTitle": "Interpersonal Communication",
+      "creditHours": 3,
+      "equivalentCourse": "COMM 23203 INTERPERSONAL COMM"
+    },
+    {
+      "courseCode": "SPCH 1321",
+      "courseTitle": "Business and Professional Communication",
+      "creditHours": 3,
+      "equivalentCourse": "COMM 1990T COMM TRANSFER COURSE"
+    },
+    {
+      "courseCode": "SPCH 2333",
+      "courseTitle": "Discussion and Small Group Communication",
+      "creditHours": 3,
+      "equivalentCourse": "COMM 2990T COMM TRANSFER COURSE"
+    }
+  ]
+}

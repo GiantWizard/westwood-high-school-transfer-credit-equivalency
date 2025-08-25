@@ -1,0 +1,772 @@
+{
+  "apEquivalencies": [
+    {
+      "examName": "AP 2-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ART 1003"
+      ]
+    },
+    {
+      "examName": "AP 3-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ART 1013"
+      ]
+    },
+    {
+      "examName": "AP Art History",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "AHC Elective"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "BIO 1233",
+        "1243"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 5,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "BIO 1203",
+        "1201 (lab)",
+        "BIO 1223",
+        "1221 (lab)"
+      ]
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "MAT 1193",
+        "MAT 1213"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "MAT 1193",
+        "MAT 1213"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "MAT 1213",
+        "MAT 1223"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 3,
+      "creditHours": 7,
+      "equivalentCourses": [
+        "CHE 1004",
+        "1073"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "CHE 1103",
+        "1121"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 5,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "CHE 1113",
+        "1131"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 2,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "CHN 1014",
+        "1024"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "CHN 1014",
+        "1024",
+        "2013",
+        "2023"
+      ]
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 3,
+      "creditHours": 9,
+      "equivalentCourses": [
+        "IS 2063"
+      ]
+    },
+    {
+      "examName": "AP Drawing",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ART 1213"
+      ]
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "WRC 1013"
+      ]
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENG 2013"
+      ]
+    },
+    {
+      "examName": "AP Environmental Science",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "ES 2013",
+        "2023"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 2,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "FRN 1014",
+        "1024"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 3,
+      "creditHours": 17,
+      "equivalentCourses": [
+        "FRN 1014",
+        "1024",
+        "2013",
+        "2023",
+        "3023"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 2,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "GER 1014",
+        "1024"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "GER 1014",
+        "1024",
+        "2013",
+        "2023"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 4,
+      "creditHours": 17,
+      "equivalentCourses": [
+        "GER 1014",
+        "1024",
+        "2013",
+        "2023",
+        "3023"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 5,
+      "creditHours": 23,
+      "equivalentCourses": [
+        "GER 1014",
+        "1024",
+        "2013",
+        "2023",
+        "3023",
+        "GER electives (6 hours upper division)"
+      ]
+    },
+    {
+      "examName": "AP Human Geography",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GES 2623"
+      ]
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 2013"
+      ]
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 2023"
+      ]
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PHY 1603"
+      ]
+    },
+    {
+      "examName": "AP Physics 2",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PHY 1623"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PHY 1963"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PHY 1943"
+      ]
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MAT 1093"
+      ]
+    },
+    {
+      "examName": "AP Psychology",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PSY 1013"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 2,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "SPN 1014",
+        "1024"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "SPN 1014",
+        "1024",
+        "2013",
+        "2023"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 4,
+      "creditHours": 17,
+      "equivalentCourses": [
+        "SPN 1014",
+        "1024",
+        "2013",
+        "2023",
+        "SPN elective (3 hours upper division)"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "SPN Literature Elective (3 hrs upper division)"
+      ]
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "STA 1053"
+      ]
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "POL 1013"
+      ]
+    },
+    {
+      "examName": "AP United States History",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "HIS 1043",
+        "1053"
+      ]
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "HIS 2133"
+      ]
+    }
+  ],
+  "courseEquivalencies": [
+    {
+      "courseCode": "ACCT 2301",
+      "courseTitle": "Principles of Accounting I-Financial",
+      "creditHours": 3,
+      "equivalentCourse": "ACC 2013 Principles of Accounting I"
+    },
+    {
+      "courseCode": "ASTR 1303",
+      "courseTitle": "Stellar Astronomy",
+      "creditHours": 3,
+      "equivalentCourse": "AST 1013 Introduction to Astronomy"
+    },
+    {
+      "courseCode": "CHIN 1411",
+      "courseTitle": "Chinese I",
+      "creditHours": 4,
+      "equivalentCourse": "CHN 1014 Elementary Chinese I"
+    },
+    {
+      "courseCode": "CHIN 1412",
+      "courseTitle": "Chinese II",
+      "creditHours": 4,
+      "equivalentCourse": "CHN 1024 Elementary Chinese II"
+    },
+    {
+      "courseCode": "CHIN 2311",
+      "courseTitle": "Chinese III",
+      "creditHours": 3,
+      "equivalentCourse": "CHN 2013 Intermediate Chinese I"
+    },
+    {
+      "courseCode": "CHIN 2312",
+      "courseTitle": "Chinese IV",
+      "creditHours": 3,
+      "equivalentCourse": "CHN 2023 Intermediate Chinese II"
+    },
+    {
+      "courseCode": "COSC 1336",
+      "courseTitle": "Programming Fundamentals I",
+      "creditHours": 3,
+      "equivalentCourse": "CS 1083 Programming I for Computer Scientists"
+    },
+    {
+      "courseCode": "DANC 2303",
+      "courseTitle": "History and Appreciation of Dance",
+      "creditHours": 3,
+      "equivalentCourse": "DAN 2003 Introduction to Dance"
+    },
+    {
+      "courseCode": "DRAM 1351",
+      "courseTitle": "Acting I",
+      "creditHours": 3,
+      "equivalentCourse": "THR 1013 Acting I"
+    },
+    {
+      "courseCode": "ECON 2301",
+      "courseTitle": "Principles of Macroeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECO 2013 Introductory Macroeconomics"
+    },
+    {
+      "courseCode": "ECON 2302",
+      "courseTitle": "Principles of Microeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECO 2023 Introductory Microeconomics"
+    },
+    {
+      "courseCode": "ENGL 1301",
+      "courseTitle": "English Composition I",
+      "creditHours": 3,
+      "equivalentCourse": "WRC 1013 Freshman Composition I"
+    },
+    {
+      "courseCode": "ENGL 1302",
+      "courseTitle": "English Composition II",
+      "creditHours": 3,
+      "equivalentCourse": "WRC 1023 Freshman Composition II"
+    },
+    {
+      "courseCode": "ENVR 1301",
+      "courseTitle": "Introduction to Environmental Science",
+      "creditHours": 3,
+      "equivalentCourse": "ES 2013 Introduction to Environmental Systems I"
+    },
+    {
+      "courseCode": "FREN 1411",
+      "courseTitle": "French I",
+      "creditHours": 4,
+      "equivalentCourse": "FRN 1014 Elementary French I"
+    },
+    {
+      "courseCode": "FREN 1412",
+      "courseTitle": "French II",
+      "creditHours": 4,
+      "equivalentCourse": "FRN 1024 Elementary French II"
+    },
+    {
+      "courseCode": "FREN 2311",
+      "courseTitle": "French III",
+      "creditHours": 3,
+      "equivalentCourse": "FRN 2013 Intermediate French I"
+    },
+    {
+      "courseCode": "FREN 2312",
+      "courseTitle": "French IV",
+      "creditHours": 3,
+      "equivalentCourse": "FRN 2023 Intermediate French II"
+    },
+    {
+      "courseCode": "GERM 1411",
+      "courseTitle": "German I",
+      "creditHours": 4,
+      "equivalentCourse": "GER 1014 Elementary German I"
+    },
+    {
+      "courseCode": "GERM 1412",
+      "courseTitle": "German II",
+      "creditHours": 4,
+      "equivalentCourse": "GER 1024 Elementary German II"
+    },
+    {
+      "courseCode": "GERM 2311",
+      "courseTitle": "German III",
+      "creditHours": 3,
+      "equivalentCourse": "GER 2013 Intermediate German I"
+    },
+    {
+      "courseCode": "GERM 2312",
+      "courseTitle": "German IV",
+      "creditHours": 3,
+      "equivalentCourse": "GER 2023 Intermediate German II"
+    },
+    {
+      "courseCode": "GOVT 2305",
+      "courseTitle": "United State Government",
+      "creditHours": 3,
+      "equivalentCourse": "POL 1013 Introduction to American Politics"
+    },
+    {
+      "courseCode": "GOVT 2306",
+      "courseTitle": "Texas State and Local Government",
+      "creditHours": 3,
+      "equivalentCourse": "POL 1133 Texas Politics and Society"
+    },
+    {
+      "courseCode": "HIST 1301",
+      "courseTitle": "United States History I",
+      "creditHours": 3,
+      "equivalentCourse": "HIS 1043 United States History: Pre-Columbus to Civil War Era"
+    },
+    {
+      "courseCode": "HIST 1302",
+      "courseTitle": "United States History II",
+      "creditHours": 3,
+      "equivalentCourse": "HIS 1053 United States History: Civil War Era to Present"
+    },
+    {
+      "courseCode": "HUMA 1301",
+      "courseTitle": "Humanities: Prehistory to Renaissance",
+      "creditHours": 3,
+      "equivalentCourse": "HUM 2023 Introduction to the Humanities I"
+    },
+    {
+      "courseCode": "HUMA 1302",
+      "courseTitle": "Humanities: Renaissance to Present",
+      "creditHours": 3,
+      "equivalentCourse": "HUM 2033 Introduction to the Humanities II"
+    },
+    {
+      "courseCode": "ITAL 1411",
+      "courseTitle": "Italian I",
+      "creditHours": 4,
+      "equivalentCourse": "ITL 1014 Elementary Italian I"
+    },
+    {
+      "courseCode": "ITAL 1412",
+      "courseTitle": "Italian II",
+      "creditHours": 4,
+      "equivalentCourse": "ITL 1024 Elementary Italian II"
+    },
+    {
+      "courseCode": "ITAL 2311",
+      "courseTitle": "Italian III",
+      "creditHours": 3,
+      "equivalentCourse": "ITL 2013 Intermediate Italian I"
+    },
+    {
+      "courseCode": "ITAL 2312",
+      "courseTitle": "Italian IV",
+      "creditHours": 3,
+      "equivalentCourse": "ITL 2023 Intermediate Italian II"
+    },
+    {
+      "courseCode": "JAPN 1411",
+      "courseTitle": "Japanese I",
+      "creditHours": 4,
+      "equivalentCourse": "JPN 1014 Elementary Japanese I"
+    },
+    {
+      "courseCode": "JAPN 1412",
+      "courseTitle": "Japanese II",
+      "creditHours": 4,
+      "equivalentCourse": "JPN 1024 Elementary Japanese II"
+    },
+    {
+      "courseCode": "JAPN 2311",
+      "courseTitle": "Japanese III",
+      "creditHours": 3,
+      "equivalentCourse": "JPN 2013 Intermediate Japanese I"
+    },
+    {
+      "courseCode": "JAPN 2312",
+      "courseTitle": "Japanese IV",
+      "creditHours": 3,
+      "equivalentCourse": "JPN 2023 Intermediate Japanese II"
+    },
+    {
+      "courseCode": "KORE 1411",
+      "courseTitle": "Korean I",
+      "creditHours": 4,
+      "equivalentCourse": "KOR 1014 Elementary Korean I"
+    },
+    {
+      "courseCode": "KORE 1412",
+      "courseTitle": "Korean II",
+      "creditHours": 4,
+      "equivalentCourse": "KOR 1024 Elementary Korean II"
+    },
+    {
+      "courseCode": "LATI 1411",
+      "courseTitle": "Latin I",
+      "creditHours": 4,
+      "equivalentCourse": "LAT 1114 Introductory Latin I"
+    },
+    {
+      "courseCode": "LATI 1412",
+      "courseTitle": "Latin II",
+      "creditHours": 4,
+      "equivalentCourse": "LAT 1124 Introductory Latin II"
+    },
+    {
+      "courseCode": "LATI 2311",
+      "courseTitle": "Latin III",
+      "creditHours": 3,
+      "equivalentCourse": "LAT 2113 Intermediate Latin I"
+    },
+    {
+      "courseCode": "LATI 2312",
+      "courseTitle": "Latin IV",
+      "creditHours": 3,
+      "equivalentCourse": "LAT 2123 Intermediate Latin II"
+    },
+    {
+      "courseCode": "MATH 1314",
+      "courseTitle": "College Algebra",
+      "creditHours": 3,
+      "equivalentCourse": "MAT 1073 Algebra for Scientists and Engineers"
+    },
+    {
+      "courseCode": "MATH 1324",
+      "courseTitle": "Mathematics for Business and Economics",
+      "creditHours": 3,
+      "equivalentCourse": "MAT 1053 Mathematics for Business"
+    },
+    {
+      "courseCode": "MATH 1332",
+      "courseTitle": "College Mathematics",
+      "creditHours": 3,
+      "equivalentCourse": "MAT 1043 Quantitative Reasoning"
+    },
+    {
+      "courseCode": "MATH 1342",
+      "courseTitle": "Elementary Statistics",
+      "creditHours": 3,
+      "equivalentCourse": "STA 1053 Basic Statistics"
+    },
+    {
+      "courseCode": "MUSIC 1181",
+      "courseTitle": "Piano Class I",
+      "creditHours": 1,
+      "equivalentCourse": "MUS 1521 Class Piano 1"
+    },
+    {
+      "courseCode": "MUSIC 1182",
+      "courseTitle": "Piano Class II",
+      "creditHours": 1,
+      "equivalentCourse": "MUS 1621 Class Piano 2"
+    },
+    {
+      "courseCode": "MUSIC 1310",
+      "courseTitle": "American Music",
+      "creditHours": 3,
+      "equivalentCourse": "MUS 2633 American Roots Music"
+    },
+    {
+      "courseCode": "MUSIC 1311",
+      "courseTitle": "Music Theory I",
+      "creditHours": 3,
+      "equivalentCourse": "MUS 1112 Basic Skills of Music I"
+    },
+    {
+      "courseCode": "PSYC 2301",
+      "courseTitle": "Introduction to Psychology",
+      "creditHours": 3,
+      "equivalentCourse": "PSY 1013 Introduction to Psychology"
+    },
+    {
+      "courseCode": "RUSS 1411",
+      "courseTitle": "Russian I",
+      "creditHours": 4,
+      "equivalentCourse": "RUS 1014 Elementary Russian I"
+    },
+    {
+      "courseCode": "RUSS 1412",
+      "courseTitle": "Russian II",
+      "creditHours": 4,
+      "equivalentCourse": "RUS 1024 Elementary Russian II"
+    },
+    {
+      "courseCode": "RUSS 2311",
+      "courseTitle": "Russian III",
+      "creditHours": 3,
+      "equivalentCourse": "RUS 2013 Intermediate Russian I"
+    },
+    {
+      "courseCode": "RUSS 2312",
+      "courseTitle": "Russian IV",
+      "creditHours": 3,
+      "equivalentCourse": "RUS 2023 Intermediate Russian II"
+    },
+    {
+      "courseCode": "SGNL 1401",
+      "courseTitle": "American Sign Language (ASL) I",
+      "creditHours": 4,
+      "equivalentCourse": "ASL 1014 American Sign Language - Basic I"
+    },
+    {
+      "courseCode": "SGNL 1402",
+      "courseTitle": "American Sign Language (ASL) II",
+      "creditHours": 4,
+      "equivalentCourse": "ASL 1024 American Sign Language: Basic II"
+    },
+    {
+      "courseCode": "SGNL 2301",
+      "courseTitle": "American Sign Language (ASL) III",
+      "creditHours": 3,
+      "equivalentCourse": "ASL 2013 American Sign Language: Intermediate I"
+    },
+    {
+      "courseCode": "SGNL 2302",
+      "courseTitle": "American Sign Language (ASL) IV",
+      "creditHours": 3,
+      "equivalentCourse": "ASL 2023 American Sign Language:Intermediate II"
+    },
+    {
+      "courseCode": "SOCI 1301",
+      "courseTitle": "Introduction to Sociology",
+      "creditHours": 3,
+      "equivalentCourse": "SOC 1013 Introduction to Sociology"
+    },
+    {
+      "courseCode": "SPAN 1411",
+      "courseTitle": "Spanish I",
+      "creditHours": 4,
+      "equivalentCourse": "SPN 1014 Elementary Spanish I"
+    },
+    {
+      "courseCode": "SPAN 1412",
+      "courseTitle": "Spanish II",
+      "creditHours": 4,
+      "equivalentCourse": "SPN 1024 Elementary Spanish II"
+    },
+    {
+      "courseCode": "SPAN 2311",
+      "courseTitle": "Spanish III",
+      "creditHours": 3,
+      "equivalentCourse": "SPN 2013 Intermediate Spanish I"
+    },
+    {
+      "courseCode": "SPAN 2312",
+      "courseTitle": "Spanish IV",
+      "creditHours": 3,
+      "equivalentCourse": "SPN 2023 Intermediate Spanish II"
+    },
+    {
+      "courseCode": "SPCH 1311",
+      "courseTitle": "Introduction to Speech Communication",
+      "creditHours": 3,
+      "equivalentCourse": "COM 1043 Introduction to Communication"
+    },
+    {
+      "courseCode": "SPCH 1315",
+      "courseTitle": "Public Speaking",
+      "creditHours": 3,
+      "equivalentCourse": "COM 2113 Public Speaking"
+    }
+  ]
+}

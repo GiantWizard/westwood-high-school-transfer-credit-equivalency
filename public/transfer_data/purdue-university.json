@@ -1,0 +1,822 @@
+{
+  "apEquivalencies": [
+    {
+      "examName": "AP 2-D Art and Design",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (A&D 1XXXX)"
+    },
+    {
+      "examName": "AP 3-D Art and Design",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (A&D 1XXXX)"
+    },
+    {
+      "examName": "AP African American Studies",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (AAS 1XUND)"
+    },
+    {
+      "examName": "AP African American Studies",
+      "score": 4,
+      "equivalentCourses": "Credit for AAS 27100"
+    },
+    {
+      "examName": "AP Art History",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (A&D 1XXXX)"
+    },
+    {
+      "examName": "AP Biology",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (BIO 1XXXX)"
+    },
+    {
+      "examName": "AP Biology",
+      "score": 4,
+      "equivalentCourses": "Credit for BIOL 11000"
+    },
+    {
+      "examName": "AP Biology",
+      "score": 5,
+      "equivalentCourses": "Credit for BIOL 11000 & 11100"
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 3,
+      "equivalentCourses": "Credit for MA 15555"
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 4,
+      "equivalentCourses": "Credit for MA 16500"
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 3,
+      "equivalentCourses": "Credit for MA 15555"
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 4,
+      "equivalentCourses": "Credit for MA 16500 & 16600"
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 3,
+      "equivalentCourses": "Credit for CHM 11100"
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 4,
+      "equivalentCourses": "Credit for CHM 11500 & 11600"
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 3,
+      "equivalentCourses": "Credit for CHNS 10100 & 10200"
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 4,
+      "equivalentCourses": "Credit for CHNS 10100, 10200 & 20100"
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 5,
+      "equivalentCourses": "Credit for CHNS 10100, 10200, 20100 & 20200"
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (CS 1XXXX)"
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 4,
+      "equivalentCourses": "Credit for CS 17700"
+    },
+    {
+      "examName": "AP Computer Science Principles",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (CS 1XXXX)"
+    },
+    {
+      "examName": "AP Computer Science Principles",
+      "score": 5,
+      "equivalentCourses": "Credit for CS 17700"
+    },
+    {
+      "examName": "AP Drawing",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (A&D 1XXXX)"
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (ENGL 1XXXX)"
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 4,
+      "equivalentCourses": "Credit for ENGL 10600"
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (ENGL 1XXXX)"
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 4,
+      "equivalentCourses": "Credit for ENGL 23100"
+    },
+    {
+      "examName": "AP Environmental Science",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (EAPS 1XXXX)"
+    },
+    {
+      "examName": "AP Environmental Science",
+      "score": 4,
+      "equivalentCourses": "Credit for EAPS 12500"
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 3,
+      "equivalentCourses": "Credit for FR 10100 & 10200"
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 4,
+      "equivalentCourses": "Credit for FR 10100, 10200 & 20100"
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 5,
+      "equivalentCourses": "Credit for FR 10100, 10200, 20100 & 20200"
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 3,
+      "equivalentCourses": "Credit for GER 10100 & 10200"
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 4,
+      "equivalentCourses": "Credit for GER 10100, 10200 & 20100"
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 5,
+      "equivalentCourses": "Credit for GER 10100, 10200, 20100 & 20200"
+    },
+    {
+      "examName": "AP Human Geography",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (EAPS 1XXXX)"
+    },
+    {
+      "examName": "AP Human Geography",
+      "score": 4,
+      "equivalentCourses": "Credit for EAPS 12000"
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (ECON 2XXXX)"
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 4,
+      "equivalentCourses": "Credit for ECON 25200"
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (ECON 2XXXX)"
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 4,
+      "equivalentCourses": "Credit for ECON 25100"
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (MUSIC 1XXXX)"
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (PHYS 1XXXX)"
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 5,
+      "equivalentCourses": "Credit for PHYS 22000"
+    },
+    {
+      "examName": "AP Physics 2",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (PHYS 1XXXX)"
+    },
+    {
+      "examName": "AP Physics 2",
+      "score": 5,
+      "equivalentCourses": "Credit for PHYS 22100"
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (PHYS 1XXXX)"
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 5,
+      "equivalentCourses": "Credit for PHYS 27200"
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (PHYS 1XXXX)"
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 5,
+      "equivalentCourses": "Credit for PHYS 17200"
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (MA 1XXXX)"
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 4,
+      "equivalentCourses": "Credit for MA 15800"
+    },
+    {
+      "examName": "AP Psychology",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (PSY 1XXXX)"
+    },
+    {
+      "examName": "AP Psychology",
+      "score": 4,
+      "equivalentCourses": "Credit for PSY 12000"
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 3,
+      "equivalentCourses": "Credit for SPAN 10100 & 10200"
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 4,
+      "equivalentCourses": "Credit for SPAN 10100, 10200 & 20100"
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 5,
+      "equivalentCourses": "Credit for SPAN 10100, 10200, 20100 & 20200"
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (SPAN 1XXXX)"
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 4,
+      "equivalentCourses": "Credit for SPAN 24100"
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (STAT 1XXXX)"
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 4,
+      "equivalentCourses": "Credit for STAT 30100"
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (POL 1XXXX)"
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 4,
+      "equivalentCourses": "Credit for POL 10100"
+    },
+    {
+      "examName": "AP United States History",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (HIST 1XXXX)"
+    },
+    {
+      "examName": "AP United States History",
+      "score": 4,
+      "equivalentCourses": "Credit for HIST 15100 & 15200"
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 3,
+      "equivalentCourses": "Undistributed Credit (HIST 1XXXX)"
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 4,
+      "equivalentCourses": "Credit for HIST 10500"
+    }
+  ],
+  "courseEquivalencies": [
+    {
+      "courseCode": "ACCT 2301",
+      "courseTitle": "Principles of Accounting I-Financial",
+      "creditHours": 3,
+      "equivalentCourse": "MGMT 2XUND Principles of Accounting I-Financial"
+    },
+    {
+      "courseCode": "ACCT 2302",
+      "courseTitle": "Principles of Accounting II-Managerial",
+      "creditHours": 3,
+      "equivalentCourse": "MGMT 2XUND Principles of Accounting II-Managerial"
+    },
+    {
+      "courseCode": "ARTS 1301",
+      "courseTitle": "Art Appreciation",
+      "creditHours": 3,
+      "equivalentCourse": "AD 25500 Art Appreciation"
+    },
+    {
+      "courseCode": "ARTS 1316",
+      "courseTitle": "Drawing I",
+      "creditHours": 3,
+      "equivalentCourse": "AD 11300 Basic Drawing"
+    },
+    {
+      "courseCode": "ASTR 1403",
+      "courseTitle": "Stellar Astronomy & Lab",
+      "creditHours": 4,
+      "equivalentCourse": "ASTR 1XXXX Stellar Astronomy & Lab"
+    },
+    {
+      "courseCode": "BIOL 1322",
+      "courseTitle": "Nutrition & Diet Therapy",
+      "creditHours": 3,
+      "equivalentCourse": "NUTR 30300 Essentials Of Nutrition"
+    },
+    {
+      "courseCode": "BIOL 1406",
+      "courseTitle": "Cellular & Molecular Biology",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 1XXXX Cellular & Molecular Biology"
+    },
+    {
+      "courseCode": "BIOL 1407",
+      "courseTitle": "Organisms Biology",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 1XXXX Organisms Biology"
+    },
+    {
+      "courseCode": "BIOL 2420",
+      "courseTitle": "Microbiology for Health Sciences",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 22100 Introduction To Microbiology"
+    },
+    {
+      "courseCode": "BIOL 2421",
+      "courseTitle": "Microbiology",
+      "creditHours": 4,
+      "equivalentCourse": "BIOL 2XXXX Microbiology"
+    },
+    {
+      "courseCode": "BUSI 1301",
+      "courseTitle": "Business Principles",
+      "creditHours": 3,
+      "equivalentCourse": "MGMT 1XUND Business Principles"
+    },
+    {
+      "courseCode": "BUSI 2305",
+      "courseTitle": "Business Statistics",
+      "creditHours": 3,
+      "equivalentCourse": "MGMT 2XXXX Business Statistics"
+    },
+    {
+      "courseCode": "CHEM 1111",
+      "courseTitle": "General Chemistry I-Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHM 1XXXX General Chemistry I-Lab"
+    },
+    {
+      "courseCode": "CHEM 2123",
+      "courseTitle": "Organic Chemistry I Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHM 25501 Organic Chemistry Life Science Lab I"
+    },
+    {
+      "courseCode": "CHEM 2323",
+      "courseTitle": "Organic Chemistry I Lecture",
+      "creditHours": 3,
+      "equivalentCourse": "CHM 25500 Organic Chemistry Life Science I"
+    },
+    {
+      "courseCode": "CHIN 1411",
+      "courseTitle": "Chinese I",
+      "creditHours": 4,
+      "equivalentCourse": "CHNS 10100 Chinese Level I"
+    },
+    {
+      "courseCode": "COSC 1301",
+      "courseTitle": "Introduction to Computing",
+      "creditHours": 3,
+      "equivalentCourse": "CNIT 13600 PC Technology & Applications"
+    },
+    {
+      "courseCode": "COSC 1336",
+      "courseTitle": "Programming Fundamentals I",
+      "creditHours": 3,
+      "equivalentCourse": "CS 1XUND Programming Fundamentals I"
+    },
+    {
+      "courseCode": "COSC 1337",
+      "courseTitle": "Programming Fundamentals II",
+      "creditHours": 3,
+      "equivalentCourse": "CS 1XUND Programming Fundamentals II"
+    },
+    {
+      "courseCode": "COSC 2325",
+      "courseTitle": "Computer Organization And Machine Language",
+      "creditHours": 3,
+      "equivalentCourse": "CS 2XUND Computer Organization And Machine Language"
+    },
+    {
+      "courseCode": "DRAM 1310",
+      "courseTitle": "Intro to Theatre",
+      "creditHours": 3,
+      "equivalentCourse": "THTR 20100 Theatre Appreciation"
+    },
+    {
+      "courseCode": "ECON 2301",
+      "courseTitle": "Principles Macroeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECON 2XUND Principles Macroeconomics"
+    },
+    {
+      "courseCode": "ECON 2302",
+      "courseTitle": "Principles Microeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECON 2XUND Principles Microeconomics"
+    },
+    {
+      "courseCode": "EDUC 1300",
+      "courseTitle": "Effective Learning",
+      "creditHours": 3,
+      "equivalentCourse": "GS 1XXXX Effective Learning"
+    },
+    {
+      "courseCode": "EDUC 1301",
+      "courseTitle": "Intro to Teaching Profession",
+      "creditHours": 3,
+      "equivalentCourse": "EDCI 1XXXX Intro to Teaching Profession"
+    },
+    {
+      "courseCode": "ENGL 1301",
+      "courseTitle": "Composition I",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 1XUWC Composition I"
+    },
+    {
+      "courseCode": "ENGL 1302",
+      "courseTitle": "Composition II",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 1XILW Composition II"
+    },
+    {
+      "courseCode": "ENGL 2307",
+      "courseTitle": "Screenwriting",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 2XXXX Screenwriting"
+    },
+    {
+      "courseCode": "ENGL 2311",
+      "courseTitle": "Technical & Business Writing",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 2XXXX Technical & Business Writing"
+    },
+    {
+      "courseCode": "ENGL 2322",
+      "courseTitle": "British Literature I",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 24000 British Literature Through 18th Century"
+    },
+    {
+      "courseCode": "ENGL 2323",
+      "courseTitle": "British Literature II",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 24100 British Literature Romantic to Modern"
+    },
+    {
+      "courseCode": "ENGL 2327",
+      "courseTitle": "American Literature I",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 35000 American Literature to 1865"
+    },
+    {
+      "courseCode": "ENGL 2328",
+      "courseTitle": "American Literature II",
+      "creditHours": 3,
+      "equivalentCourse": "ENGL 35100 American Literature 1865 to Post WWII"
+    },
+    {
+      "courseCode": "FREN 1411",
+      "courseTitle": "French I",
+      "creditHours": 4,
+      "equivalentCourse": "FR 10100 French Level I & FR 1XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "FREN 1412",
+      "courseTitle": "French II",
+      "creditHours": 4,
+      "equivalentCourse": "FR 10200 French Level II & FR 1XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "GEOG 1301",
+      "courseTitle": "Intro Physical Geography",
+      "creditHours": 3,
+      "equivalentCourse": "EAPS 1XXXX Intro Physical Geography"
+    },
+    {
+      "courseCode": "GEOG 1302",
+      "courseTitle": "Intro Cultural Geography",
+      "creditHours": 3,
+      "equivalentCourse": "EAPS 12000 Intro To Geography"
+    },
+    {
+      "courseCode": "GEOL 1403",
+      "courseTitle": "Physical Geology",
+      "creditHours": 4,
+      "equivalentCourse": "EAPS 11100 Physical Geology & EAPS 1XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "GERM 1411",
+      "courseTitle": "German I",
+      "creditHours": 4,
+      "equivalentCourse": "GER 10100 German Level I & GER 1XXXX German I"
+    },
+    {
+      "courseCode": "GERM 1412",
+      "courseTitle": "German II",
+      "creditHours": 4,
+      "equivalentCourse": "GER 10200 German Level II & GER 1XXXX German II"
+    },
+    {
+      "courseCode": "GOVT 2305",
+      "courseTitle": "US Government",
+      "creditHours": 3,
+      "equivalentCourse": "POL 10100 American Government"
+    },
+    {
+      "courseCode": "GOVT 2306",
+      "courseTitle": "Texas St/Local Government",
+      "creditHours": 3,
+      "equivalentCourse": "POL 2XXXX Texas State/Local Government"
+    },
+    {
+      "courseCode": "HIST 1301",
+      "courseTitle": "United States History I",
+      "creditHours": 3,
+      "equivalentCourse": "HIST 15100 American History to 1877"
+    },
+    {
+      "courseCode": "HIST 1302",
+      "courseTitle": "United States History II",
+      "creditHours": 3,
+      "equivalentCourse": "HIST 15200 U S Since 1877"
+    },
+    {
+      "courseCode": "HPRS 1206",
+      "courseTitle": "Medical Terminology",
+      "creditHours": 2,
+      "equivalentCourse": "HSCI 1XXXX Medical Terminology"
+    },
+    {
+      "courseCode": "JAPN 1411",
+      "courseTitle": "Japanese I",
+      "creditHours": 4,
+      "equivalentCourse": "JPNS 10100 Japanese Level I"
+    },
+    {
+      "courseCode": "JAPN 1412",
+      "courseTitle": "Japanese II",
+      "creditHours": 4,
+      "equivalentCourse": "JPNS 10200 Japanese Level II"
+    },
+    {
+      "courseCode": "JAPN 2311",
+      "courseTitle": "Japanese III",
+      "creditHours": 3,
+      "equivalentCourse": "JPNS 20100 Japanese Level III"
+    },
+    {
+      "courseCode": "JAPN 2312",
+      "courseTitle": "Japanese IV",
+      "creditHours": 3,
+      "equivalentCourse": "JPNS 20200 Japanese Level IV"
+    },
+    {
+      "courseCode": "LATI 1411",
+      "courseTitle": "Latin I",
+      "creditHours": 4,
+      "equivalentCourse": "LATN 10100 Latin Level I & LATN 1XTRA Extra Undistributed"
+    },
+    {
+      "courseCode": "LATI 1412",
+      "courseTitle": "Latin II",
+      "creditHours": 4,
+      "equivalentCourse": "LATN 10200 Latin Level II & LATN 1XTRA Extra Undistributed"
+    },
+    {
+      "courseCode": "LATI 2311",
+      "courseTitle": "Latin III",
+      "creditHours": 3,
+      "equivalentCourse": "LATN 20100 Latin Level III"
+    },
+    {
+      "courseCode": "LATI 2312",
+      "courseTitle": "Latin IV",
+      "creditHours": 3,
+      "equivalentCourse": "LATN 20200 Latin Level IV"
+    },
+    {
+      "courseCode": "MATH 1314",
+      "courseTitle": "College Algebra",
+      "creditHours": 3,
+      "equivalentCourse": "MA 15300 Algebra And Trigonometry I"
+    },
+    {
+      "courseCode": "MATH 1324",
+      "courseTitle": "Math for Business & Economics",
+      "creditHours": 3,
+      "equivalentCourse": "MA 1XXXX Math For Business & Economics"
+    },
+    {
+      "courseCode": "MATH 1325",
+      "courseTitle": "Business Calculus",
+      "creditHours": 3,
+      "equivalentCourse": "MA 1XXXX Business Calculus"
+    },
+    {
+      "courseCode": "MATH 1342",
+      "courseTitle": "Elementary Statistics",
+      "creditHours": 3,
+      "equivalentCourse": "STAT 30100 Elementary Statistical Methods"
+    },
+    {
+      "courseCode": "MATH 1414",
+      "courseTitle": "College Algebra Precalculus",
+      "creditHours": 4,
+      "equivalentCourse": "MA 15300 College Algebra & MA 1XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "MATH 2412",
+      "courseTitle": "Precalculus",
+      "creditHours": 4,
+      "equivalentCourse": "MA 15800 Precalculus- Functions & Trigonometry & MA 2XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "MATH 2413",
+      "courseTitle": "Calculus I",
+      "creditHours": 4,
+      "equivalentCourse": "MA 16500 Analytic Geometry & Calculus I"
+    },
+    {
+      "courseCode": "MATH 2414",
+      "courseTitle": "Calculus II",
+      "creditHours": 4,
+      "equivalentCourse": "MA 16600 Analytic Geometry & Calculus II"
+    },
+    {
+      "courseCode": "MATH 2415",
+      "courseTitle": "Calculus III",
+      "creditHours": 4,
+      "equivalentCourse": "MA 26100 Multivariate Calculus"
+    },
+    {
+      "courseCode": "MATH 2420",
+      "courseTitle": "Differential Equations",
+      "creditHours": 4,
+      "equivalentCourse": "MA 26600 Ordinary Differential Equations & MA 2XTRA Differential Equations"
+    },
+    {
+      "courseCode": "MUSI 1306",
+      "courseTitle": "Music Appreciation",
+      "creditHours": 3,
+      "equivalentCourse": "MUS 25000 Music Appreciation"
+    },
+    {
+      "courseCode": "MUSI 1310",
+      "courseTitle": "American Music",
+      "creditHours": 3,
+      "equivalentCourse": "MUS 1XXXX American Music"
+    },
+    {
+      "courseCode": "PHIL 1301",
+      "courseTitle": "Intro Philosophy",
+      "creditHours": 3,
+      "equivalentCourse": "PHIL 11000 Intro To Philosophy"
+    },
+    {
+      "courseCode": "PHIL 2306",
+      "courseTitle": "Ethics",
+      "creditHours": 3,
+      "equivalentCourse": "PHIL 11100 Ethics"
+    },
+    {
+      "courseCode": "PHYS 1401",
+      "courseTitle": "General Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 22000 General Physics"
+    },
+    {
+      "courseCode": "PHYS 1402",
+      "courseTitle": "General Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 22100 General Physics"
+    },
+    {
+      "courseCode": "PHYS 2425",
+      "courseTitle": "Engineering Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 17200 Modern Mechanics"
+    },
+    {
+      "courseCode": "PHYS 2426",
+      "courseTitle": "Engineering Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHYS 24100 Electricity and Optics & PHYS 25200 Electricity and Optics Lab"
+    },
+    {
+      "courseCode": "PSYC 2301",
+      "courseTitle": "Intro to Psychology",
+      "creditHours": 3,
+      "equivalentCourse": "PSY 12000 Elementary Psychology"
+    },
+    {
+      "courseCode": "RUSS 1411",
+      "courseTitle": "Russian I",
+      "creditHours": 4,
+      "equivalentCourse": "RUSS 10100 Russian Level I"
+    },
+    {
+      "courseCode": "SGNL 1401",
+      "courseTitle": "American Sign Language I",
+      "creditHours": 4,
+      "equivalentCourse": "ASL 10100 American Sign Language I & ASL 1XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "SOCI 1301",
+      "courseTitle": "Introduction to Sociology",
+      "creditHours": 3,
+      "equivalentCourse": "SOC 10000 Intro Sociology"
+    },
+    {
+      "courseCode": "SOCI 1306",
+      "courseTitle": "Contemporary Social Problems",
+      "creditHours": 3,
+      "equivalentCourse": "SOC 22000 Social Problems"
+    },
+    {
+      "courseCode": "SPAN 1411",
+      "courseTitle": "Spanish I",
+      "creditHours": 4,
+      "equivalentCourse": "SPAN 10100 Spanish Level I & SPAN 1XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "SPAN 1412",
+      "courseTitle": "Spanish II",
+      "creditHours": 4,
+      "equivalentCourse": "SPAN 10200 Spanish Level II & SPAN 1XTRA Extra Undistributed Credit"
+    },
+    {
+      "courseCode": "SPCH 1311",
+      "courseTitle": "Intro to Speech Communication",
+      "creditHours": 3,
+      "equivalentCourse": "COM 21200 Approaches to the Study of Interpersonal Communication"
+    },
+    {
+      "courseCode": "SPCH 1315",
+      "courseTitle": "Public Speaking",
+      "creditHours": 3,
+      "equivalentCourse": "COM 11400 Fundamentals Of Speech"
+    },
+    {
+      "courseCode": "SPCH 1318",
+      "courseTitle": "Interpersonal Comm",
+      "creditHours": 3,
+      "equivalentCourse": "COM 21200 Approaches to the Study of Interpersonal Communication"
+    }
+  ]
+}

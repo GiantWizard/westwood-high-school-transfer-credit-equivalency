@@ -1,0 +1,1118 @@
+{
+  "apEquivalencies": [
+    {
+      "examName": "AP 2-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ART 1301"
+      ]
+    },
+    {
+      "examName": "AP 3-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARTS 1302"
+      ]
+    },
+    {
+      "examName": "AP African American Studies",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "AAS 2310"
+      ]
+    },
+    {
+      "examName": "AP Art History",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARTH 2301"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "BIO 1130",
+        "1330"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 4,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "BIO 1130",
+        "1330",
+        "1131",
+        "1331"
+      ]
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "MATH 2471"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 3,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "MATH 2471",
+        "2472"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CHEM 1320"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "CHEM 1341",
+        "1141"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 5,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "CHEM 1341",
+        "1141",
+        "1342",
+        "1142"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "CHI 1410",
+        "1420",
+        "2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "CS 1428"
+      ]
+    },
+    {
+      "examName": "AP Computer Science Principles",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CS 1319"
+      ]
+    },
+    {
+      "examName": "AP Drawing",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARTS 1301"
+      ]
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENG 1310"
+      ]
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENG 1320"
+      ]
+    },
+    {
+      "examName": "AP Environmental Science",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GEO 2310"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "FR 1410",
+        "1420",
+        "2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "GER 1410",
+        "1420",
+        "2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP Human Geography",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GEO 1309"
+      ]
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 2315"
+      ]
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 2314"
+      ]
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "MU 1312",
+        "MU 1112"
+      ]
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 4,
+      "creditHours": 5,
+      "equivalentCourses": [
+        "MU 1112",
+        "MU 1115",
+        "MU 1315"
+      ]
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 1115",
+        "1315"
+      ]
+    },
+    {
+      "examName": "AP Physics 2",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 1125",
+        "1325"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 2126",
+        "2326"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHYS 2125",
+        "2325"
+      ]
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MATH 1315"
+      ]
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "MATH 2417"
+      ]
+    },
+    {
+      "examName": "AP Psychology",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PSY 1300"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "SPAN 1410",
+        "1420",
+        "2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 3,
+      "creditHours": 14,
+      "equivalentCourses": [
+        "SPAN 1410",
+        "1420",
+        "2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ANLY 2333",
+        "MATH 2328"
+      ]
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "POSI 2320"
+      ]
+    },
+    {
+      "examName": "AP United States History",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "HIST 1310",
+        "1320"
+      ]
+    },
+    {
+      "examName": "AP United States History",
+      "score": 4,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "HIST 1310",
+        "1320"
+      ]
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "HIST 2311",
+        "2312"
+      ]
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 4,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "HIST 2311",
+        "2312"
+      ]
+    }
+  ],
+  "courseEquivalencies": [
+    {
+      "courseCode": "ACCT 2301",
+      "courseTitle": "Principles of Accounting I-Financial",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ACC 2361",
+        "title": "Introduction to Financial Accounting"
+      }
+    },
+    {
+      "courseCode": "ACCT 2302",
+      "courseTitle": "Principles of Accounting II-Managerial",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ACC 2362",
+        "title": "Introduction to Managerial Accounting"
+      }
+    },
+    {
+      "courseCode": "ANTH 2351",
+      "courseTitle": "Cultural Anthropology",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ANTH 1312",
+        "title": "Cultural Anthropology"
+      }
+    },
+    {
+      "courseCode": "ARAB 1411",
+      "courseTitle": "Arab I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "ARAB 1410",
+        "title": "Beginning Arabic I"
+      }
+    },
+    {
+      "courseCode": "ARAB 1412",
+      "courseTitle": "Arabic II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "ARAB 1420",
+        "title": "Beginning Arabic II"
+      }
+    },
+    {
+      "courseCode": "ARAB 2311",
+      "courseTitle": "Arabic III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ARAB 2310",
+        "title": "Intermediate Arabic I"
+      }
+    },
+    {
+      "courseCode": "ARAB 2312",
+      "courseTitle": "Arabic IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ARAB 2320",
+        "title": "Intermediate Arabic II"
+      }
+    },
+    {
+      "courseCode": "ASTR 1303",
+      "courseTitle": "Stellar Astronomy",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "PHYS 1350",
+        "title": "Astronomy: Stars and Galaxies"
+      }
+    },
+    {
+      "courseCode": "BIOL 2401",
+      "courseTitle": "Anatomy and Physiology I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "BIO 2451",
+        "title": "Human Anatomy and Physiology I"
+      }
+    },
+    {
+      "courseCode": "BIOL 2402",
+      "courseTitle": "Anatomy and Physiology II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "BIO 2452",
+        "title": "Human Anatomy and Physiology II"
+      }
+    },
+    {
+      "courseCode": "BUSI 1301",
+      "courseTitle": "Business Principles",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "B A 1310",
+        "title": "Introduction to Business"
+      }
+    },
+    {
+      "courseCode": "BUSI 2301",
+      "courseTitle": "Business Law I",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "BLAW 3301",
+        "title": "Legal Environment of Business"
+      }
+    },
+    {
+      "courseCode": "CHEM 1111",
+      "courseTitle": "General Chemistry I Lab",
+      "creditHours": 1,
+      "equivalentCourse": {
+        "code": "CHEM 1141",
+        "title": "General Chemistry Laboratory I"
+      }
+    },
+    {
+      "courseCode": "CHEM 1112",
+      "courseTitle": "General Chemistry II Lab",
+      "creditHours": 1,
+      "equivalentCourse": {
+        "code": "CHEM 1142",
+        "title": "General Chemistry Laboratory II"
+      }
+    },
+    {
+      "courseCode": "CHEM 1311",
+      "courseTitle": "General Chemistry I Lecture",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "CHEM 1341",
+        "title": "General Chemistry I"
+      }
+    },
+    {
+      "courseCode": "CHEM 1312",
+      "courseTitle": "General Chemistry II Lecture",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "CHEM 1342",
+        "title": "General Chemistry II"
+      }
+    },
+    {
+      "courseCode": "CHIN 1411",
+      "courseTitle": "Chinese I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "CHI 1410",
+        "title": "Beg Chinese I"
+      }
+    },
+    {
+      "courseCode": "CHIN 1412",
+      "courseTitle": "Chinese II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "CHI 1420",
+        "title": "Beg Chinese II"
+      }
+    },
+    {
+      "courseCode": "CHIN 2311",
+      "courseTitle": "Chinese III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "CHI 2310",
+        "title": "Intermd Chinese I"
+      }
+    },
+    {
+      "courseCode": "CHIN 2312",
+      "courseTitle": "Chinese IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "CHI 2320",
+        "title": "Intermd Chinese II"
+      }
+    },
+    {
+      "courseCode": "COSC 1336",
+      "courseTitle": "Programming Fundamentals I",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "CS 1319",
+        "title": "Fundamentals of Computer Science"
+      }
+    },
+    {
+      "courseCode": "DANC 1305",
+      "courseTitle": "World Dance",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "DAN 3368",
+        "title": "World Dance and Culture-NA ADV"
+      }
+    },
+    {
+      "courseCode": "DRAM 1351",
+      "courseTitle": "Acting I",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "TH 1364",
+        "title": "Beginning Acting"
+      }
+    },
+    {
+      "courseCode": "DRAM 1352",
+      "courseTitle": "Acting II",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "TH 1365",
+        "title": "Intermediate Acting"
+      }
+    },
+    {
+      "courseCode": "ECON 2301",
+      "courseTitle": "Principles of Macroeconomics",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ECO 2315",
+        "title": "Principles of Macroeconomics"
+      }
+    },
+    {
+      "courseCode": "ECON 2302",
+      "courseTitle": "Principles of Microeconomics",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ECO 2314",
+        "title": "Principles of Microeconomics"
+      }
+    },
+    {
+      "courseCode": "EDUC 1300",
+      "courseTitle": "Effective Learning-Strategies for College Success",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "EDP 1350",
+        "title": "Effective Learning"
+      }
+    },
+    {
+      "courseCode": "EDUC 1301",
+      "courseTitle": "Introduction to the Teaching Profession",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "CI 2310",
+        "title": "Education for Change"
+      }
+    },
+    {
+      "courseCode": "ENGL 1301",
+      "courseTitle": "English Composition I",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ENG 1310",
+        "title": "College Writing I"
+      }
+    },
+    {
+      "courseCode": "ENGL 1302",
+      "courseTitle": "English Composition II",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ENG 1320",
+        "title": "College Writing II"
+      }
+    },
+    {
+      "courseCode": "ENGL 2322",
+      "courseTitle": "British Literature I: Anglo-Saxon through 18th Century",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ENG 2310",
+        "title": "British Literature before 1785"
+      }
+    },
+    {
+      "courseCode": "ENGL 2323",
+      "courseTitle": "British Literature II: 18th Century to the Present",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ENG 2320",
+        "title": "British Literature since 1785"
+      }
+    },
+    {
+      "courseCode": "ENGL 2327",
+      "courseTitle": "American Literature I: Beginnings through Civil War",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ENG 2359",
+        "title": "US Literature Before 1865"
+      }
+    },
+    {
+      "courseCode": "ENGL 2328",
+      "courseTitle": "American Literature II: Civil War to the Present",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ENG 2360",
+        "title": "US Literature since 1865"
+      }
+    },
+    {
+      "courseCode": "FREN 1411",
+      "courseTitle": "French I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "FR 1410",
+        "title": "Beginning French I"
+      }
+    },
+    {
+      "courseCode": "FREN 1412",
+      "courseTitle": "French II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "FR 1420",
+        "title": "Beginning French II"
+      }
+    },
+    {
+      "courseCode": "FREN 2311",
+      "courseTitle": "French III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "FR 2310",
+        "title": "Intermediate French I"
+      }
+    },
+    {
+      "courseCode": "FREN 2312",
+      "courseTitle": "French IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "FR 2320",
+        "title": "Intermediate French II"
+      }
+    },
+    {
+      "courseCode": "GERM 1411",
+      "courseTitle": "German I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "GER 1410",
+        "title": "Beginning German I"
+      }
+    },
+    {
+      "courseCode": "GERM 1412",
+      "courseTitle": "German II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "GER 1420",
+        "title": "Beginning German II"
+      }
+    },
+    {
+      "courseCode": "GERM 2311",
+      "courseTitle": "German III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "GER 2310",
+        "title": "Intermediate German I"
+      }
+    },
+    {
+      "courseCode": "GERM 2312",
+      "courseTitle": "German IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "GER 2320",
+        "title": "Intermediate German II"
+      }
+    },
+    {
+      "courseCode": "GOVT 2305",
+      "courseTitle": "United State Government",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "POSI 2320",
+        "title": "Functions of American Government"
+      }
+    },
+    {
+      "courseCode": "GOVT 2306",
+      "courseTitle": "Texas State and Local Government",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "POSI 2310",
+        "title": "Principles of American Government"
+      }
+    },
+    {
+      "courseCode": "HIST 1301",
+      "courseTitle": "United States History I",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "HIST 1310",
+        "title": "History of the United States to 1877"
+      }
+    },
+    {
+      "courseCode": "HIST 1302",
+      "courseTitle": "United States History II",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "HIST 1320",
+        "title": "History of the United States, 1877 to Date"
+      }
+    },
+    {
+      "courseCode": "ITAL 1411",
+      "courseTitle": "Italian I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "ITAL 1410",
+        "title": "Beginning Italian I"
+      }
+    },
+    {
+      "courseCode": "ITAL 1412",
+      "courseTitle": "Italian II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "ITAL 1420",
+        "title": "Beginning Italian II"
+      }
+    },
+    {
+      "courseCode": "ITAL 2311",
+      "courseTitle": "Italian III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ITAL 2310",
+        "title": "Intermediate Italian I"
+      }
+    },
+    {
+      "courseCode": "ITAL 2312",
+      "courseTitle": "Italian IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ITAL 2320",
+        "title": "Intermediate Italian II"
+      }
+    },
+    {
+      "courseCode": "JAPN 1411",
+      "courseTitle": "Japanese I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "JAPA 1410",
+        "title": "Beginning Japanese I"
+      }
+    },
+    {
+      "courseCode": "JAPN 1412",
+      "courseTitle": "Japanese II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "JAPA 1420",
+        "title": "Beginning Japanese II"
+      }
+    },
+    {
+      "courseCode": "JAPN 2311",
+      "courseTitle": "Japanese III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "JAPA 2310",
+        "title": "Intermediate Japanese I"
+      }
+    },
+    {
+      "courseCode": "JAPN 2312",
+      "courseTitle": "Japanese IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "JAPA 2320",
+        "title": "Intermediate Japanese II"
+      }
+    },
+    {
+      "courseCode": "LATI 1411",
+      "courseTitle": "Latin I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "LAT 1410",
+        "title": "Beginning Latin I"
+      }
+    },
+    {
+      "courseCode": "LATI 1412",
+      "courseTitle": "Latin II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "LAT 1420",
+        "title": "Beginning Latin II"
+      }
+    },
+    {
+      "courseCode": "LATI 2311",
+      "courseTitle": "Latin III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "LAT 2310",
+        "title": "Intermediate Latin"
+      }
+    },
+    {
+      "courseCode": "LATI 2312",
+      "courseTitle": "Latin IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "LAT 2320",
+        "title": "Intermediate Latin"
+      }
+    },
+    {
+      "courseCode": "MATH 1314",
+      "courseTitle": "College Algebra",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "MATH 1315",
+        "title": "College Algebra"
+      }
+    },
+    {
+      "courseCode": "MATH 1324",
+      "courseTitle": "Mathematics for Business and Economics",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "MATH 1319",
+        "title": "Mathematics for Business & Economics I"
+      }
+    },
+    {
+      "courseCode": "MATH 1332",
+      "courseTitle": "College Mathematics",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "MATH 1316",
+        "title": "A Survey of Contemporary Mathematics"
+      }
+    },
+    {
+      "courseCode": "MATH 1342",
+      "courseTitle": "Elementary Statistics",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "MATH 2328",
+        "title": "Elementary Statistics"
+      }
+    },
+    {
+      "courseCode": "MATH 1414",
+      "courseTitle": "College Algebra for PreCalculus",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "MATH 1315",
+        "title": "College Algebra"
+      }
+    },
+    {
+      "courseCode": "MATH 2412",
+      "courseTitle": "Precalculus: Functions and Graphs",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "MATH 2417",
+        "title": "Pre-Calculus Mathematics"
+      }
+    },
+    {
+      "courseCode": "MATH 2413",
+      "courseTitle": "Calculus I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "MATH 2471",
+        "title": "Calculus I"
+      }
+    },
+    {
+      "courseCode": "MATH 2415",
+      "courseTitle": "Calculus III",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "MATH 2393",
+        "title": "Calculus III"
+      }
+    },
+    {
+      "courseCode": "MUSI 1116",
+      "courseTitle": "Sight Singing and Ear Training I",
+      "creditHours": 1,
+      "equivalentCourse": {
+        "code": "MU 1115",
+        "title": "Aural Skills I"
+      }
+    },
+    {
+      "courseCode": "MUSI 1117",
+      "courseTitle": "Sight Singing and Ear Training II",
+      "creditHours": 1,
+      "equivalentCourse": {
+        "code": "MU 1116",
+        "title": "Aural Skills II"
+      }
+    },
+    {
+      "courseCode": "MUSI 1181",
+      "courseTitle": "Piano Class I",
+      "creditHours": 1,
+      "equivalentCourse": {
+        "code": "MUSP 1135",
+        "title": "Piano Techniques I"
+      }
+    },
+    {
+      "courseCode": "MUSI 1182",
+      "courseTitle": "Piano Class II",
+      "creditHours": 1,
+      "equivalentCourse": {
+        "code": "MUSP 1136",
+        "title": "Piano Techniques II"
+      }
+    },
+    {
+      "courseCode": "MUSI 1311",
+      "courseTitle": "Music Theory I",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "MU 1315",
+        "title": "Music Theory I"
+      }
+    },
+    {
+      "courseCode": "MUSI 1312",
+      "courseTitle": "Music Theory II",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "MU 1316",
+        "title": "Music Theory II"
+      }
+    },
+    {
+      "courseCode": "PSYC 2301",
+      "courseTitle": "Introduction to Psychology",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "PSY 1300",
+        "title": "Introduction to Psychology"
+      }
+    },
+    {
+      "courseCode": "SGNL 1401",
+      "courseTitle": "American Sign Language (ASL) I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "ASL 1410",
+        "title": "Beginning American Sign Language I"
+      }
+    },
+    {
+      "courseCode": "SGNL 1402",
+      "courseTitle": "American Sign Language (ASL) II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "ASL 1420",
+        "title": "Beginning American Sign Language II"
+      }
+    },
+    {
+      "courseCode": "SGNL 2301",
+      "courseTitle": "American Sign Language (ASL) III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ASL 2310",
+        "title": "Intermediate American Sign Language I"
+      }
+    },
+    {
+      "courseCode": "SGNL 2302",
+      "courseTitle": "American Sign Language (ASL) IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "ASL 2320",
+        "title": "Intermediate American Sign Language II"
+      }
+    },
+    {
+      "courseCode": "SOCI 1301",
+      "courseTitle": "Introduction to Sociology",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "SOCI 1310",
+        "title": "Introduction to Sociology"
+      }
+    },
+    {
+      "courseCode": "SPAN 1411",
+      "courseTitle": "Spanish I",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "SPAN 1410",
+        "title": "Beginning Spanish I"
+      }
+    },
+    {
+      "courseCode": "SPAN 1412",
+      "courseTitle": "Spanish II",
+      "creditHours": 4,
+      "equivalentCourse": {
+        "code": "SPAN 1420",
+        "title": "Beginning Spanish II"
+      }
+    },
+    {
+      "courseCode": "SPAN 2311",
+      "courseTitle": "Spanish III",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "SPAN 2310",
+        "title": "Intermediate Spanish I"
+      }
+    },
+    {
+      "courseCode": "SPAN 2312",
+      "courseTitle": "Spanish IV",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "SPAN 2320",
+        "title": "Intermediate Spanish II"
+      }
+    },
+    {
+      "courseCode": "SPCH 1311",
+      "courseTitle": "Introduction to Speech Communication",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "COMM 1310",
+        "title": "Fundamentals of Human Communication"
+      }
+    },
+    {
+      "courseCode": "SPCH 1315",
+      "courseTitle": "Public Speaking",
+      "creditHours": 3,
+      "equivalentCourse": {
+        "code": "COMM 2338",
+        "title": "Public Speaking"
+      }
+    }
+  ]
+}

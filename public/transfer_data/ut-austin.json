@@ -1,0 +1,1028 @@
+{
+  "apEquivalencies": [
+    {
+      "examName": "AP 2-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ART 319T"
+      ]
+    },
+    {
+      "examName": "AP 3-D Art and Design",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ART 319T"
+      ]
+    },
+    {
+      "examName": "AP Art History",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARH 301"
+      ]
+    },
+    {
+      "examName": "AP Art History",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ARH 302",
+        "ARH 303"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "BIO 311C"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 5,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "BIO 311C",
+        "311D"
+      ]
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "M 408K",
+        "M 408N",
+        "M 408R"
+      ]
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 5,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "M 408C"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "M 408C"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 5,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "M 408C",
+        "M 408K",
+        "M 408L",
+        "M 408N",
+        "M 408S",
+        "M 408R",
+        "M 408L",
+        "M 408R",
+        "M 408S"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CH 301N"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 4,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "CH 301",
+        "302",
+        "104M",
+        "104N"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 3,
+      "creditHours": 12,
+      "equivalentCourses": [
+        "CHI 606",
+        "607"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 4,
+      "creditHours": 15,
+      "equivalentCourses": [
+        "CHI 606",
+        "607",
+        "312K"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 5,
+      "creditHours": 18,
+      "equivalentCourses": [
+        "CHI 606",
+        "607",
+        "312K",
+        "312L"
+      ]
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "AET 310"
+      ]
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CS 302"
+      ]
+    },
+    {
+      "examName": "AP Computer Science A",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CS 312"
+      ]
+    },
+    {
+      "examName": "AP Computer Science Principles",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "CS 302"
+      ]
+    },
+    {
+      "examName": "AP Drawing",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ART 319T"
+      ]
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "RHE 306"
+      ]
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "E 314T"
+      ]
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "E 316P"
+      ]
+    },
+    {
+      "examName": "AP Environmental Science",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GEO 302P"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "FR 601C"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 4,
+      "creditHours": 12,
+      "equivalentCourses": [
+        "FR 601C",
+        "611C"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 5,
+      "creditHours": 15,
+      "equivalentCourses": [
+        "FR 601C",
+        "611C",
+        "317C"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "GER 506",
+        "507",
+        "GER 604"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 4,
+      "creditHours": 12,
+      "equivalentCourses": [
+        "GER 506",
+        "507",
+        "612",
+        "GER 604",
+        "612"
+      ]
+    },
+    {
+      "examName": "AP Human Geography",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GRG 305"
+      ]
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 301"
+      ]
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 304L"
+      ]
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 301"
+      ]
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ECO 304K"
+      ]
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "MUS 306M"
+      ]
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHY 302K",
+        "105M"
+      ]
+    },
+    {
+      "examName": "AP Physics 2",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHY 302L",
+        "105N"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHY 302L",
+        "105N",
+        "PHY 303L",
+        "105N",
+        "PHY 316",
+        "116L",
+        "PHY 317L",
+        "105N"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "PHY 301",
+        "101L",
+        "PHY 302K",
+        "105M",
+        "PHY 303K",
+        "105M",
+        "PHY 317K",
+        "105M"
+      ]
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "M 301"
+      ]
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "M 305G"
+      ]
+    },
+    {
+      "examName": "AP Psychology",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "PSY 301"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "SPN 601D"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 4,
+      "creditHours": 12,
+      "equivalentCourses": [
+        "SPN 601D",
+        "610D"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 5,
+      "creditHours": 18,
+      "equivalentCourses": [
+        "SPN 601D",
+        "610D",
+        "311",
+        "314"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 3,
+      "creditHours": 12,
+      "equivalentCourses": [
+        "SPN 601D",
+        "610D"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 4,
+      "creditHours": 18,
+      "equivalentCourses": [
+        "SPN 601D",
+        "610D",
+        "311",
+        "314"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 5,
+      "creditHours": 21,
+      "equivalentCourses": [
+        "SPN 601D",
+        "610D",
+        "311",
+        "314",
+        "327C"
+      ]
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "EDP 308",
+        "SDS 301",
+        "STA 309"
+      ]
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "GOV 310L"
+      ]
+    },
+    {
+      "examName": "AP United States History",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "HIS 315L"
+      ]
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "HIS 301J"
+      ]
+    }
+  ],
+  "courseEquivalencies": [
+    {
+      "courseCode": "ACCT 2301",
+      "courseTitle": "Principles of Accounting I-Financial",
+      "creditHours": 3,
+      "equivalentCourse": "ACC 311 Fundamentals of Financial Accounting"
+    },
+    {
+      "courseCode": "ANTH 2351",
+      "courseTitle": "Cultural Anthropology",
+      "creditHours": 3,
+      "equivalentCourse": "ANT 302 Cultural Anthropology"
+    },
+    {
+      "courseCode": "ARAB 1411",
+      "courseTitle": "Arab I",
+      "creditHours": 4,
+      "equivalentCourse": "ARA 406 First-Year Arabic I"
+    },
+    {
+      "courseCode": "ARAB 1412",
+      "courseTitle": "Arabic II",
+      "creditHours": 4,
+      "equivalentCourse": "ARA 407 First-Year Arabic II"
+    },
+    {
+      "courseCode": "ARAB 2311",
+      "courseTitle": "Arabic III",
+      "creditHours": 3,
+      "equivalentCourse": "ARA 312K Second-Year Arabic I"
+    },
+    {
+      "courseCode": "ARAB 2312",
+      "courseTitle": "Arabic IV",
+      "creditHours": 3,
+      "equivalentCourse": "ARA 312L Second-Year Arabic II"
+    },
+    {
+      "courseCode": "ARTS 1301",
+      "courseTitle": "Introduction to the Visual Arts",
+      "creditHours": 3,
+      "equivalentCourse": "ARH 301 Introduction to the Visual Arts"
+    },
+    {
+      "courseCode": "ARTS 1316",
+      "courseTitle": "Drawing I",
+      "creditHours": 3,
+      "equivalentCourse": "ART 311C Core Studio: Drawing"
+    },
+    {
+      "courseCode": "ARTS 1317",
+      "courseTitle": "Drawing II",
+      "creditHours": 3,
+      "equivalentCourse": "ART 315K Beginning Drawing"
+    },
+    {
+      "courseCode": "ARTS 2316",
+      "courseTitle": "Painting I",
+      "creditHours": 3,
+      "equivalentCourse": "ART 311K Painting I"
+    },
+    {
+      "courseCode": "ARTS 2326",
+      "courseTitle": "Sculpture I",
+      "creditHours": 3,
+      "equivalentCourse": "ART 313K Beginning Sculpture"
+    },
+    {
+      "courseCode": "ASTR 1303",
+      "courseTitle": "Stellar Astronomy",
+      "creditHours": 3,
+      "equivalentCourse": "AST 301 Introduction to Astronomy"
+    },
+    {
+      "courseCode": "ASTR 1403",
+      "courseTitle": "Stellar Astronomy with Lab",
+      "creditHours": 4,
+      "equivalentCourse": "AST 301+103L Introduction to Astronomy + Astronomical Observations"
+    },
+    {
+      "courseCode": "BIOL 2401",
+      "courseTitle": "Anatomy and Physiology I",
+      "creditHours": 4,
+      "equivalentCourse": "BIO 416K Physiology & Functional Anatomy I"
+    },
+    {
+      "courseCode": "BIOL 2402",
+      "courseTitle": "Anatomy and Physiology II",
+      "creditHours": 4,
+      "equivalentCourse": "BIO 416L Physiology & Functional Anatomy II"
+    },
+    {
+      "courseCode": "CHIN 1411",
+      "courseTitle": "Chinese I",
+      "creditHours": 4,
+      "equivalentCourse": "CHI 406 First-Year Chinese I"
+    },
+    {
+      "courseCode": "CHIN 1412",
+      "courseTitle": "Chinese II",
+      "creditHours": 4,
+      "equivalentCourse": "CHI 407 First-Year Chinese II"
+    },
+    {
+      "courseCode": "CHIN 2311",
+      "courseTitle": "Chinese III",
+      "creditHours": 3,
+      "equivalentCourse": "CHI 312K Second-Year Chinese I"
+    },
+    {
+      "courseCode": "CHIN 2312",
+      "courseTitle": "Chinese IV",
+      "creditHours": 3,
+      "equivalentCourse": "CHI 312L Second-Year Chinese II"
+    },
+    {
+      "courseCode": "DRAM 1310",
+      "courseTitle": "Introduction to Theatre",
+      "creditHours": 3,
+      "equivalentCourse": "T D 301 Introduction to Theatre"
+    },
+    {
+      "courseCode": "DRAM 1330",
+      "courseTitle": "Stagecraft",
+      "creditHours": 3,
+      "equivalentCourse": "T D 314C Design for Performance"
+    },
+    {
+      "courseCode": "DRAM 1351",
+      "courseTitle": "Acting I",
+      "creditHours": 3,
+      "equivalentCourse": "T D 313C Acting I"
+    },
+    {
+      "courseCode": "ECON 2301",
+      "courseTitle": "Principles of Macroeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECO 304L Introduction to Macroeconomics"
+    },
+    {
+      "courseCode": "ECON 2302",
+      "courseTitle": "Principles of Microeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECO 304K Introduction to Microeconomics"
+    },
+    {
+      "courseCode": "EDUC 1300",
+      "courseTitle": "Effective Learning-Strategies for College Success",
+      "creditHours": 3,
+      "equivalentCourse": "EDP 304 Strategic Learning for the Twenty-First Century"
+    },
+    {
+      "courseCode": "ENGL 1301",
+      "courseTitle": "English Composition I",
+      "creditHours": 3,
+      "equivalentCourse": "RHE 306 Rhetoric & Writing"
+    },
+    {
+      "courseCode": "ENGL 1302",
+      "courseTitle": "English Composition II",
+      "creditHours": 3,
+      "equivalentCourse": "RHE 309J Topics in Writing"
+    },
+    {
+      "courseCode": "ENGL 2322",
+      "courseTitle": "British Literature I: Anglo-Saxon through 18th Century",
+      "creditHours": 3,
+      "equivalentCourse": "E 316L British Literature"
+    },
+    {
+      "courseCode": "ENGL 2323",
+      "courseTitle": "British Literature II: 18th Century to the Present",
+      "creditHours": 3,
+      "equivalentCourse": "E 316L British Literature"
+    },
+    {
+      "courseCode": "ENGL 2327",
+      "courseTitle": "American Literature I: Beginnings through Civil War",
+      "creditHours": 3,
+      "equivalentCourse": "E 316M American Literature"
+    },
+    {
+      "courseCode": "ENGL 2328",
+      "courseTitle": "American Literature II: Civil War to the Present",
+      "creditHours": 3,
+      "equivalentCourse": "E 316M American Literature"
+    },
+    {
+      "courseCode": "ENVR 1301",
+      "courseTitle": "Introduction to Environmental Science",
+      "creditHours": 3,
+      "equivalentCourse": "GEO 302P Sustaining a Planet"
+    },
+    {
+      "courseCode": "FREN 1411",
+      "courseTitle": "French I",
+      "creditHours": 4,
+      "equivalentCourse": "FR 406 Introductory French I"
+    },
+    {
+      "courseCode": "FREN 1412",
+      "courseTitle": "French II",
+      "creditHours": 4,
+      "equivalentCourse": "FR 407 Introductory French II"
+    },
+    {
+      "courseCode": "FREN 2311",
+      "courseTitle": "French III",
+      "creditHours": 3,
+      "equivalentCourse": "FR 312K Intermediate French I"
+    },
+    {
+      "courseCode": "FREN 2312",
+      "courseTitle": "French IV",
+      "creditHours": 3,
+      "equivalentCourse": "FR 312L Second-Year French II"
+    },
+    {
+      "courseCode": "GERM 1411",
+      "courseTitle": "German I",
+      "creditHours": 4,
+      "equivalentCourse": "GER 406 First-Year German I"
+    },
+    {
+      "courseCode": "GERM 1412",
+      "courseTitle": "German II",
+      "creditHours": 4,
+      "equivalentCourse": "GER 407 First-Year German II"
+    },
+    {
+      "courseCode": "GERM 2311",
+      "courseTitle": "German III",
+      "creditHours": 3,
+      "equivalentCourse": "GER 312K Second-Year German I"
+    },
+    {
+      "courseCode": "GERM 2312",
+      "courseTitle": "German IV",
+      "creditHours": 3,
+      "equivalentCourse": "GER 312L Second-Year German II"
+    },
+    {
+      "courseCode": "GOVT 2305",
+      "courseTitle": "United State Government",
+      "creditHours": 3,
+      "equivalentCourse": "GOV 305C United States Politics & Government"
+    },
+    {
+      "courseCode": "GOVT 2306",
+      "courseTitle": "Texas State and Local Government",
+      "creditHours": 3,
+      "equivalentCourse": "GOV 306C Politics & Government in Contemporary Texas"
+    },
+    {
+      "courseCode": "HIST 1301",
+      "courseTitle": "United States History I",
+      "creditHours": 3,
+      "equivalentCourse": "HIS 315K The United States, 1492-1865"
+    },
+    {
+      "courseCode": "HIST 1302",
+      "courseTitle": "United States History II",
+      "creditHours": 3,
+      "equivalentCourse": "HIS 315L The United States since 1865"
+    },
+    {
+      "courseCode": "ITAL 1411",
+      "courseTitle": "Italian I",
+      "creditHours": 4,
+      "equivalentCourse": "ITL 406 First-Year Italian I"
+    },
+    {
+      "courseCode": "ITAL 1412",
+      "courseTitle": "Italian II",
+      "creditHours": 4,
+      "equivalentCourse": "ITL 407 First-Year Italian II"
+    },
+    {
+      "courseCode": "ITAL 2311",
+      "courseTitle": "Italian III",
+      "creditHours": 3,
+      "equivalentCourse": "ITL 312K Second-Year Italian I"
+    },
+    {
+      "courseCode": "ITAL 2312",
+      "courseTitle": "Italian IV",
+      "creditHours": 3,
+      "equivalentCourse": "ITL 312L Second-Year Italian II"
+    },
+    {
+      "courseCode": "JAPN 1411",
+      "courseTitle": "Japanese I",
+      "creditHours": 4,
+      "equivalentCourse": "JPN 406 First-Year Japanese I"
+    },
+    {
+      "courseCode": "JAPN 1412",
+      "courseTitle": "Japanese II",
+      "creditHours": 4,
+      "equivalentCourse": "JPN 407 First-Year Japanese II"
+    },
+    {
+      "courseCode": "JAPN 2311",
+      "courseTitle": "Japanese III",
+      "creditHours": 3,
+      "equivalentCourse": "JPN 312K Second-Year Japanese I"
+    },
+    {
+      "courseCode": "JAPN 2312",
+      "courseTitle": "Japanese IV",
+      "creditHours": 3,
+      "equivalentCourse": "JPN 312L Second-Year Japanese II"
+    },
+    {
+      "courseCode": "KORE 1411",
+      "courseTitle": "Korean I",
+      "creditHours": 4,
+      "equivalentCourse": "KOR 406 First-Year Korean I"
+    },
+    {
+      "courseCode": "KORE 1412",
+      "courseTitle": "Korean II",
+      "creditHours": 4,
+      "equivalentCourse": "KOR 407 First-Year Korean II"
+    },
+    {
+      "courseCode": "LATI 1411",
+      "courseTitle": "Latin I",
+      "creditHours": 4,
+      "equivalentCourse": "LAT 406 First-Year Latin I"
+    },
+    {
+      "courseCode": "LATI 1412",
+      "courseTitle": "Latin II",
+      "creditHours": 4,
+      "equivalentCourse": "LAT 407 First-Year Latin II"
+    },
+    {
+      "courseCode": "LATI 2311",
+      "courseTitle": "Latin III",
+      "creditHours": 3,
+      "equivalentCourse": "LAT 311 Intermediate Latin I"
+    },
+    {
+      "courseCode": "LATI 2312",
+      "courseTitle": "Latin IV",
+      "creditHours": 3,
+      "equivalentCourse": "LAT 312K Intermediate Latin II"
+    },
+    {
+      "courseCode": "MATH 1314",
+      "courseTitle": "College Algebra",
+      "creditHours": 3,
+      "equivalentCourse": "M 301 College Algebra"
+    },
+    {
+      "courseCode": "MATH 1324",
+      "courseTitle": "Mathematics for Business and Economics",
+      "creditHours": 3,
+      "equivalentCourse": "M 303D Applicable Mathematics"
+    },
+    {
+      "courseCode": "MATH 1332",
+      "courseTitle": "College Mathematics",
+      "creditHours": 3,
+      "equivalentCourse": "M 302 Introduction to Mathematics"
+    },
+    {
+      "courseCode": "MATH 1342",
+      "courseTitle": "Elementary Statistics",
+      "creditHours": 3,
+      "equivalentCourse": "SDS 301 Elementary Statistical Methods"
+    },
+    {
+      "courseCode": "MATH 1414",
+      "courseTitle": "College Algebra for PreCalculus",
+      "creditHours": 4,
+      "equivalentCourse": "M 401 College Algebra"
+    },
+    {
+      "courseCode": "MATH 2412",
+      "courseTitle": "Precalculus: Functions and Graphs",
+      "creditHours": 4,
+      "equivalentCourse": "M 405G Preparation for Calculus"
+    },
+    {
+      "courseCode": "MATH 2413",
+      "courseTitle": "Calculus I",
+      "creditHours": 4,
+      "equivalentCourse": "M 408K Differential Calculus (or M 408N)"
+    },
+    {
+      "courseCode": "MATH 2414",
+      "courseTitle": "Calculus II",
+      "creditHours": 4,
+      "equivalentCourse": "M 408L Integral Calculus (or M 408S)"
+    },
+    {
+      "courseCode": "MATH 2415",
+      "courseTitle": "Calculus III",
+      "creditHours": 4,
+      "equivalentCourse": "M 408M Multivariable Calculus"
+    },
+    {
+      "courseCode": "MUSI 1181",
+      "courseTitle": "Piano Class I",
+      "creditHours": 1,
+      "equivalentCourse": "MUS 101M Class Piano"
+    },
+    {
+      "courseCode": "MUSI 1182",
+      "courseTitle": "Piano Class II",
+      "creditHours": 1,
+      "equivalentCourse": "MUS 101N Second-Semester Class Piano"
+    },
+    {
+      "courseCode": "MUSI 1310",
+      "courseTitle": "American Music",
+      "creditHours": 3,
+      "equivalentCourse": "MUS 307 Topics in Popular Music"
+    },
+    {
+      "courseCode": "MUSI 1311",
+      "courseTitle": "Music Theory I",
+      "creditHours": 3,
+      "equivalentCourse": "MUS 605A Musicianship"
+    },
+    {
+      "courseCode": "MUSI 1312",
+      "courseTitle": "Music Theory II",
+      "creditHours": 3,
+      "equivalentCourse": "MUS 605B Musicianship"
+    },
+    {
+      "courseCode": "PHYS 1401",
+      "courseTitle": "General College Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 302K+102M General Physics Technical Course: Mechanics, Heat, & Sound"
+    },
+    {
+      "courseCode": "PHYS 1402",
+      "courseTitle": "General College Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 302L+102N General Physics Technical Course: Electricity/Magnetism, Light, Atomic/Nuclear Physics"
+    },
+    {
+      "courseCode": "PHYS 2425",
+      "courseTitle": "Engineering Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 303K+103M Engineering Physics I"
+    },
+    {
+      "courseCode": "PHYS 2426",
+      "courseTitle": "Engineering Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 303L+103N Engineering Physics II"
+    },
+    {
+      "courseCode": "PSYC 2301",
+      "courseTitle": "Introduction to Psychology",
+      "creditHours": 3,
+      "equivalentCourse": "PSY 301 Introduction to Psychology"
+    },
+    {
+      "courseCode": "RUSS 1411",
+      "courseTitle": "Russian I",
+      "creditHours": 4,
+      "equivalentCourse": "RUS 406 First-Year Russian I"
+    },
+    {
+      "courseCode": "RUSS 1412",
+      "courseTitle": "Russian II",
+      "creditHours": 4,
+      "equivalentCourse": "RUS 407 First-Year Russian II"
+    },
+    {
+      "courseCode": "RUSS 2311",
+      "courseTitle": "Russian III",
+      "creditHours": 3,
+      "equivalentCourse": "RUS 312K Second-Year Russian I"
+    },
+    {
+      "courseCode": "RUSS 2312",
+      "courseTitle": "Russian IV",
+      "creditHours": 3,
+      "equivalentCourse": "RUS 312L Second-Year Russian II"
+    },
+    {
+      "courseCode": "SGNL 1401",
+      "courseTitle": "American Sign Language (ASL) I",
+      "creditHours": 4,
+      "equivalentCourse": "ASL 406 First-Year American Sign Language I"
+    },
+    {
+      "courseCode": "SGNL 1402",
+      "courseTitle": "American Sign Language (ASL) II",
+      "creditHours": 4,
+      "equivalentCourse": "ASL 407 First-Year American Sign Language II"
+    },
+    {
+      "courseCode": "SGNL 2301",
+      "courseTitle": "American Sign Language (ASL) III",
+      "creditHours": 3,
+      "equivalentCourse": "ASL 312K Second-Year American Sign Language I"
+    },
+    {
+      "courseCode": "SGNL 2302",
+      "courseTitle": "American Sign Language (ASL) IV",
+      "creditHours": 3,
+      "equivalentCourse": "ASL 312L Second-Year American Sign Language II"
+    },
+    {
+      "courseCode": "SOCI 1301",
+      "courseTitle": "Introduction to Sociology",
+      "creditHours": 3,
+      "equivalentCourse": "SOC 302 Introduction to the Study of Society"
+    },
+    {
+      "courseCode": "SPAN 1411",
+      "courseTitle": "Spanish I",
+      "creditHours": 4,
+      "equivalentCourse": "SPN 406 First-Year Spanish I"
+    },
+    {
+      "courseCode": "SPAN 1412",
+      "courseTitle": "Spanish II",
+      "creditHours": 4,
+      "equivalentCourse": "SPN 407 First-Year Spanish II"
+    },
+    {
+      "courseCode": "SPAN 2311",
+      "courseTitle": "Spanish III",
+      "creditHours": 3,
+      "equivalentCourse": "SPN 312K Second-Year Spanish I"
+    },
+    {
+      "courseCode": "SPAN 2312",
+      "courseTitle": "Spanish IV",
+      "creditHours": 3,
+      "equivalentCourse": "SPN 312L Second-Year Spanish II"
+    },
+    {
+      "courseCode": "SPCH 1315",
+      "courseTitle": "Public Speaking",
+      "creditHours": 3,
+      "equivalentCourse": "CMS 305 Principles of Speech Communication"
+    }
+  ]
+}

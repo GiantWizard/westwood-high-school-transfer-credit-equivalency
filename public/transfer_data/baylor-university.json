@@ -1,0 +1,667 @@
+{
+  "apEquivalencies": [
+    {
+      "examName": "AP Art History",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Art History 1300",
+        "2302"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Biology 1401"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Biology 1305",
+        "1105"
+      ]
+    },
+    {
+      "examName": "AP Biology",
+      "score": 5,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "Biology 1305",
+        "1105",
+        "1306",
+        "1106"
+      ]
+    },
+    {
+      "examName": "AP Calculus AB",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Math 1321"
+      ]
+    },
+    {
+      "examName": "AP Calculus BC",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "Math 1321",
+        "1322"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Chemistry 1300",
+        "1100"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Chemistry 1301",
+        "1101"
+      ]
+    },
+    {
+      "examName": "AP Chemistry",
+      "score": 5,
+      "creditHours": 8,
+      "equivalentCourses": [
+        "Chemistry 1301",
+        "1101",
+        "1302",
+        "1102"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Chinese 2310"
+      ]
+    },
+    {
+      "examName": "AP Chinese Language and Culture",
+      "score": 5,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "Chinese 2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP English Language and Composition",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "ENG 1310"
+      ]
+    },
+    {
+      "examName": "AP English Literature and Composition",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "English 1302"
+      ]
+    },
+    {
+      "examName": "AP Environmental Science",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Environmental Studies 1301"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "French 2310"
+      ]
+    },
+    {
+      "examName": "AP French Language and Culture",
+      "score": 5,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "French 2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "German 2310"
+      ]
+    },
+    {
+      "examName": "AP German Language and Culture",
+      "score": 5,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "German 2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP Human Geography",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Geography 1310",
+        "Anthropology 1310"
+      ]
+    },
+    {
+      "examName": "AP Macroeconomics",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Economics 2307"
+      ]
+    },
+    {
+      "examName": "AP Microeconomics",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Economics 2306"
+      ]
+    },
+    {
+      "examName": "AP Music Theory",
+      "score": 4,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Music 1301",
+        "1101"
+      ]
+    },
+    {
+      "examName": "AP Physics 1",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Physics 1405"
+      ]
+    },
+    {
+      "examName": "AP Physics 2",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Physics 1405"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Electricity and Magnetism",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Physics 1405"
+      ]
+    },
+    {
+      "examName": "AP Physics C: Mechanics",
+      "score": 3,
+      "creditHours": 4,
+      "equivalentCourses": [
+        "Physics 1405"
+      ]
+    },
+    {
+      "examName": "AP Precalculus",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Math 1320"
+      ]
+    },
+    {
+      "examName": "AP Psychology",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Psychology 1305"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Spanish 2310"
+      ]
+    },
+    {
+      "examName": "AP Spanish Language and Culture",
+      "score": 5,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "Spanish 2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP Spanish Literature and Culture",
+      "score": 3,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "Spanish 2310",
+        "2320"
+      ]
+    },
+    {
+      "examName": "AP Statistics",
+      "score": 4,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Statistics 1380",
+        "Quantitative Methods (QBA) 2302 for BBA students"
+      ]
+    },
+    {
+      "examName": "AP United States Government and Politics",
+      "score": 3,
+      "creditHours": 3,
+      "equivalentCourses": [
+        "Political Science 1305"
+      ]
+    },
+    {
+      "examName": "AP United States History",
+      "score": 4,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "History 1365",
+        "1366"
+      ]
+    },
+    {
+      "examName": "AP World History: Modern",
+      "score": 4,
+      "creditHours": 6,
+      "equivalentCourses": [
+        "History 1305",
+        "1307"
+      ]
+    }
+  ],
+  "courseEquivalencies": [
+    {
+      "courseCode": "ARTS 1301",
+      "courseTitle": "Introduction to the Visual Arts",
+      "creditHours": 3,
+      "equivalentCourse": "ARTH 1300 Intro to Art (N-Major)"
+    },
+    {
+      "courseCode": "ARTS 1316",
+      "courseTitle": "Drawing I",
+      "creditHours": 3,
+      "equivalentCourse": "ART 1310 Drawing I"
+    },
+    {
+      "courseCode": "ARTS 1317",
+      "courseTitle": "Drawing II",
+      "creditHours": 3,
+      "equivalentCourse": "ART 1311 Drawing II"
+    },
+    {
+      "courseCode": "ARTS 2326",
+      "courseTitle": "Sculpture I",
+      "creditHours": 3,
+      "equivalentCourse": "ART 2344 Sculpture IA/Wood/N-Mjr"
+    },
+    {
+      "courseCode": "ARTS 2346",
+      "courseTitle": "Ceramics I",
+      "creditHours": 3,
+      "equivalentCourse": "ART 2340 Ceramic Design IA/N-Mjr"
+    },
+    {
+      "courseCode": "ARTS 2347",
+      "courseTitle": "Ceramics II",
+      "creditHours": 3,
+      "equivalentCourse": "ART 2341 Ceramic Design IB/N-Mjr"
+    },
+    {
+      "courseCode": "BIOL 2401",
+      "courseTitle": "Anatomy and Physiology I",
+      "creditHours": 4,
+      "equivalentCourse": "BIO 2401 Human Anatomy & Phys I"
+    },
+    {
+      "courseCode": "BIOL 2402",
+      "courseTitle": "Anatomy and Physiology II",
+      "creditHours": 4,
+      "equivalentCourse": "BIO 2402 Human Anatomy & Phys II"
+    },
+    {
+      "courseCode": "BIOL 2420",
+      "courseTitle": "Microbiology for the Health Sciences",
+      "creditHours": 4,
+      "equivalentCourse": "BIO 2302/2102 Introductory Microbiology/Lab"
+    },
+    {
+      "courseCode": "BIOL 2421",
+      "courseTitle": "Microbiology",
+      "creditHours": 4,
+      "equivalentCourse": "BIO 2302/2102 Introductory Microbiology/Lab"
+    },
+    {
+      "courseCode": "CHEM 1105",
+      "courseTitle": "Introductory Chemistry I Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHE 1100 Intro Chemistry Lab"
+    },
+    {
+      "courseCode": "CHEM 1111",
+      "courseTitle": "General Chemistry I Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHE 1101 General Chemistry Lab I"
+    },
+    {
+      "courseCode": "CHEM 1112",
+      "courseTitle": "General Chemistry II Lab",
+      "creditHours": 1,
+      "equivalentCourse": "CHE 1102 General Chemistry Lab II"
+    },
+    {
+      "courseCode": "CHEM 1305",
+      "courseTitle": "Introductory Chemistry I Lecture",
+      "creditHours": 3,
+      "equivalentCourse": "CHE 1300 Introductory Chemistry"
+    },
+    {
+      "courseCode": "CHEM 1311",
+      "courseTitle": "General Chemistry I Lecture",
+      "creditHours": 3,
+      "equivalentCourse": "CHE 1301 Bas Prin Mod Chemistry I"
+    },
+    {
+      "courseCode": "CHEM 1312",
+      "courseTitle": "General Chemistry II Lecture",
+      "creditHours": 3,
+      "equivalentCourse": "CHE 1302 Bas Prin Mod Chem II"
+    },
+    {
+      "courseCode": "CHIN 1411",
+      "courseTitle": "Chinese I",
+      "creditHours": 3,
+      "equivalentCourse": "CHI 1301 Elementary Chinese"
+    },
+    {
+      "courseCode": "CHIN 1412",
+      "courseTitle": "Chinese II",
+      "creditHours": 3,
+      "equivalentCourse": "CHI 1302 Elementary Chinese"
+    },
+    {
+      "courseCode": "DRAM 1310",
+      "courseTitle": "Introduction to Theatre",
+      "creditHours": 2,
+      "equivalentCourse": "THEA 1206 Theater Appreciation"
+    },
+    {
+      "courseCode": "DRAM 1330",
+      "courseTitle": "Stagecraft",
+      "creditHours": 3,
+      "equivalentCourse": "THEA 1312 Scenic Elements"
+    },
+    {
+      "courseCode": "DRAM 1342",
+      "courseTitle": "Introduction to Costume",
+      "creditHours": 3,
+      "equivalentCourse": "THEA 1316 Costume & Makeup Elements"
+    },
+    {
+      "courseCode": "ECON 2301",
+      "courseTitle": "Principles of Macroeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECO 2307 Principles of Macroeconomics"
+    },
+    {
+      "courseCode": "ECON 2302",
+      "courseTitle": "Principles of Microeconomics",
+      "creditHours": 3,
+      "equivalentCourse": "ECO 2306 Principles of Microeconomics"
+    },
+    {
+      "courseCode": "ENGL 1301",
+      "courseTitle": "English Composition I",
+      "creditHours": 3,
+      "equivalentCourse": "ENG 1302 Thinking & Writing"
+    },
+    {
+      "courseCode": "ENGL 1302",
+      "courseTitle": "English Composition II",
+      "creditHours": 3,
+      "equivalentCourse": "ENG 1304 Thinking, Writing & Resrch"
+    },
+    {
+      "courseCode": "FREN 1411",
+      "courseTitle": "French I",
+      "creditHours": 3,
+      "equivalentCourse": "FRE 1301 Elementary French"
+    },
+    {
+      "courseCode": "FREN 1412",
+      "courseTitle": "French II",
+      "creditHours": 3,
+      "equivalentCourse": "FRE 1302 Elementary French"
+    },
+    {
+      "courseCode": "FREN 2311",
+      "courseTitle": "French III",
+      "creditHours": 3,
+      "equivalentCourse": "FRE 2310 Intermediate French I"
+    },
+    {
+      "courseCode": "FREN 2312",
+      "courseTitle": "French IV",
+      "creditHours": 3,
+      "equivalentCourse": "FRE 2320 Intermediate French II"
+    },
+    {
+      "courseCode": "GERM 1411",
+      "courseTitle": "German I",
+      "creditHours": 3,
+      "equivalentCourse": "GER 1301 Elementary German"
+    },
+    {
+      "courseCode": "GERM 1412",
+      "courseTitle": "German II",
+      "creditHours": 3,
+      "equivalentCourse": "GER 1302 Elementary German"
+    },
+    {
+      "courseCode": "GOVT 2305",
+      "courseTitle": "United State Government",
+      "creditHours": 3,
+      "equivalentCourse": "PSC 1305 American National Government"
+    },
+    {
+      "courseCode": "GOVT 2306",
+      "courseTitle": "Texas State and Local Government",
+      "creditHours": 3,
+      "equivalentCourse": "PSC 1306 Amer State-Local Government"
+    },
+    {
+      "courseCode": "HIST 1301",
+      "courseTitle": "United States History I",
+      "creditHours": 3,
+      "equivalentCourse": "HIS 2365 Hist of U.S. to 1877"
+    },
+    {
+      "courseCode": "HIST 1302",
+      "courseTitle": "United States History II",
+      "creditHours": 3,
+      "equivalentCourse": "HIS 2366 Hist of U.S. Since 1877"
+    },
+    {
+      "courseCode": "ITAL 1411",
+      "courseTitle": "Italian I",
+      "creditHours": 3,
+      "equivalentCourse": "ITA 1301 Elementary Italian"
+    },
+    {
+      "courseCode": "ITAL 1412",
+      "courseTitle": "Italian II",
+      "creditHours": 3,
+      "equivalentCourse": "ITA 1302 Elementary Italian"
+    },
+    {
+      "courseCode": "JAPN 1411",
+      "courseTitle": "Japanese I",
+      "creditHours": 3,
+      "equivalentCourse": "JPN 1301 Introductory Japanese"
+    },
+    {
+      "courseCode": "JAPN 1412",
+      "courseTitle": "Japanese II",
+      "creditHours": 3,
+      "equivalentCourse": "JPN 1302 Elementary Japanese"
+    },
+    {
+      "courseCode": "KORE 1411",
+      "courseTitle": "Korean I",
+      "creditHours": 3,
+      "equivalentCourse": "KOR 1301 Elementary Korean"
+    },
+    {
+      "courseCode": "KORE 1412",
+      "courseTitle": "Korean II",
+      "creditHours": 3,
+      "equivalentCourse": "KOR 1302 Elementary Korean"
+    },
+    {
+      "courseCode": "MATH 1332",
+      "courseTitle": "College Mathematics",
+      "creditHours": 3,
+      "equivalentCourse": "MTH 1301 Ideas in Mathematics"
+    },
+    {
+      "courseCode": "MATH 2412",
+      "courseTitle": "Precalculus: Functions and Graphs",
+      "creditHours": 3,
+      "equivalentCourse": "MTH 1308 Precal for Business Students"
+    },
+    {
+      "courseCode": "MATH 2413",
+      "courseTitle": "Calculus I",
+      "creditHours": 3,
+      "equivalentCourse": "MTH 1321 Calculus I"
+    },
+    {
+      "courseCode": "MATH 2414",
+      "courseTitle": "Calculus II",
+      "creditHours": 3,
+      "equivalentCourse": "MTH 1322 Calculus II"
+    },
+    {
+      "courseCode": "PHYS 1401",
+      "courseTitle": "General College Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 1408 Physics Nat Behav Sci I"
+    },
+    {
+      "courseCode": "PHYS 1402",
+      "courseTitle": "General College Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 1409 Physics Nat Behav Sci II"
+    },
+    {
+      "courseCode": "PHYS 2425",
+      "courseTitle": "Engineering Physics I",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 1420 General Physics I"
+    },
+    {
+      "courseCode": "PHYS 2426",
+      "courseTitle": "Engineering Physics II",
+      "creditHours": 4,
+      "equivalentCourse": "PHY 1430 General Physics II"
+    },
+    {
+      "courseCode": "PSYC 2301",
+      "courseTitle": "Introduction to Psychology",
+      "creditHours": 3,
+      "equivalentCourse": "PSY 1305 Psychological Science"
+    },
+    {
+      "courseCode": "RUSS 1411",
+      "courseTitle": "Russian I",
+      "creditHours": 3,
+      "equivalentCourse": "RUS 1301 Elementary Russian"
+    },
+    {
+      "courseCode": "RUSS 1412",
+      "courseTitle": "Russian II",
+      "creditHours": 3,
+      "equivalentCourse": "RUS 1302 Elementary Russian"
+    },
+    {
+      "courseCode": "SOCI 1301",
+      "courseTitle": "Introduction to Sociology",
+      "creditHours": 3,
+      "equivalentCourse": "SOC 1305 Intro to Sociology"
+    },
+    {
+      "courseCode": "SOCI 1306",
+      "courseTitle": "Contemporary Social Problems",
+      "creditHours": 3,
+      "equivalentCourse": "SOC 1306 Social Problems"
+    },
+    {
+      "courseCode": "SPAN 1411",
+      "courseTitle": "Spanish I",
+      "creditHours": 3,
+      "equivalentCourse": "SPA 1301 Elementary Spanish"
+    },
+    {
+      "courseCode": "SPAN 1412",
+      "courseTitle": "Spanish II",
+      "creditHours": 3,
+      "equivalentCourse": "SPA 1302 Elementary Spanish"
+    },
+    {
+      "courseCode": "SPAN 2311",
+      "courseTitle": "Spanish III",
+      "creditHours": 3,
+      "equivalentCourse": "SPA 2310 Intermediate Spanish I"
+    },
+    {
+      "courseCode": "SPAN 2312",
+      "courseTitle": "Spanish IV",
+      "creditHours": 3,
+      "equivalentCourse": "SPA 2320 Intermediate Spanish II"
+    },
+    {
+      "courseCode": "SPCH 1315",
+      "courseTitle": "Public Speaking",
+      "creditHours": 3,
+      "equivalentCourse": "CSS 1301 Fund Of Public Communication"
+    },
+    {
+      "courseCode": "SPCH 1321",
+      "courseTitle": "Business and Professional Communication",
+      "creditHours": 3,
+      "equivalentCourse": "CSS 1302 Speech For Bus/Prof Stu"
+    }
+  ]
+}

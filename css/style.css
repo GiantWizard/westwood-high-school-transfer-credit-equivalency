@@ -1,0 +1,51 @@
+/* Custom styles for the searchable dropdown component */
+
+/* Style for the options list */
+.custom-dropdown-options {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for each individual option */
+.custom-dropdown-options li {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+/* Hover effect for the options */
+.custom-dropdown-options li:hover {
+    background-color: #f3f4f6; /* A light gray */
+}
+
+/* Style for a "no results" message */
+.custom-dropdown-options .no-results {
+    padding: 0.5rem 1rem;
+    color: #6b7280; /* A medium gray */
+    cursor: default;
+}
+
+/* Style for the dropdown arrow icon */
+.dropdown-arrow {
+    transition: transform 0.3s ease; /* Smooth animation */
+}
+
+/* Rotated state for the arrow (points down) */
+.dropdown-arrow.open {
+    transform: rotate(-90deg); 
+}
+
+/* Styles for the dropdown menu animation */
+.custom-dropdown-menu {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+}
+
+.custom-dropdown-menu.open {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
