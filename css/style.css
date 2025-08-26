@@ -1,51 +1,147 @@
-/* Custom styles for the searchable dropdown component */
-
-/* Style for the options list */
+/* --- Base Dropdown Styles --- */
 .custom-dropdown-options {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-/* Style for each individual option */
 .custom-dropdown-options li {
     padding: 0.5rem 1rem;
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
 }
 
-/* Hover effect for the options */
 .custom-dropdown-options li:hover {
     background-color: #f3f4f6; /* A light gray */
 }
 
-/* Style for a "no results" message */
 .custom-dropdown-options .no-results {
     padding: 0.5rem 1rem;
     color: #6b7280; /* A medium gray */
     cursor: default;
 }
 
-/* Style for the dropdown arrow icon */
 .dropdown-arrow {
     transition: transform 0.3s ease; /* Smooth animation */
 }
 
-/* Rotated state for the arrow (points down) */
 .dropdown-arrow.open {
     transform: rotate(-90deg); 
 }
 
-/* Styles for the dropdown menu animation */
 .custom-dropdown-menu {
     opacity: 0;
     visibility: hidden;
     transform: translateY(-10px);
-    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0s 0.2s;
 }
 
 .custom-dropdown-menu.open {
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
+    transition: opacity 0.2s ease, transform 0.2s ease, visibility 0s 0s;
+}
+
+/* --- Multi-select & Pill Styles --- */
+@keyframes fadeInPill {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.item-pill {
+    display: flex;
+    align-items: center;
+    background-color: #CC5500;
+    color: white;
+    border-radius: 9999px;
+    padding: 2px 4px 2px 8px;
+    font-size: 0.75rem; /* 12px */
+    line-height: 1.25;
+    animation: fadeInPill 0.2s ease-out;
+}
+
+.pill-close-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 4px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s ease-in-out;
+    line-height: 1; 
+}
+
+.pill-close-btn:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.custom-dropdown-options li.selected {
+    background-color: #fdddca; /* light orange */
+    font-weight: 600; /* semibold */
+}
+
+#staged-courses-container ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+}
+
+#staged-courses-container li {
+    margin-bottom: 0.25rem;
+}
+
+/* --- NEW: Styles for AP Equivalency Display --- */
+.exam-card {
+  background-color: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+}
+
+.exam-card h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: #111827;
+}
+
+.exam-card table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.exam-card th, .exam-card td {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+
+.exam-card th {
+  background-color: #f9fafb;
+  font-weight: 500;
+  color: #374151;
+}
+
+.exam-card td {
+    color: #4b5563;
+}
+
+.exam-card td:first-child {
+    text-align: center;
+    font-weight: bold;
 }
