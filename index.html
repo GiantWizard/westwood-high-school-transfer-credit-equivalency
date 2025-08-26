@@ -4,31 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Three Section Layout</title>
-    <!-- Tailwind CSS for base styling -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Link to our custom CSS file -->
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="bg-gray-50">
 
     <div class="min-h-screen flex flex-col">
-        <!-- Header -->
         <header class="bg-[#CC5500] text-white p-4 shadow-md">
             <div class="container mx-auto flex justify-center">
                 <h1 class="text-2xl font-bold">TITLE</h1>
             </div>
         </header>
 
-        <!-- Main Content -->
         <main class="flex-1 container mx-auto p-4">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <!-- Left Column -->
                 <div class="space-y-6">
                     <div class="bg-white rounded-lg shadow-md p-6">
                         <h2 class="text-xl font-semibold mb-4 text-gray-800">Left Upper Box</h2>
                         <div class="space-y-6">
 
-                            <!-- Dropdown 1 -->
                             <div>
                                 <label for="dropdown-input-1" class="block text-sm font-medium text-gray-700 mb-1">Target University</label>
                                 <div id="dropdown-1" class="custom-dropdown relative" data-options='["Baylor University", "Purdue University", "Texas A&M University", "Texas State University", "Texas Tech University", "University of Arkansas", "UT Austin", "UT Dallas", "UT San Antonio"]'>
@@ -46,12 +40,11 @@
                                 </div>
                             </div>
                             
-                            <!-- Dropdown 2 -->
                             <div>
-                                <label for="dropdown-input-2" class="block text-sm font-medium text-gray-700 mb-1">Searchable Dropdown 2 (Colors)</label>
-                                <div id="dropdown-2" class="custom-dropdown relative" data-options='["Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet", "Black", "White", "Gray", "Brown", "Pink", "Purple"]'>
+                                <label for="dropdown-input-2" class="block text-sm font-medium text-gray-700 mb-1">AP Exam</label>
+                                <div id="dropdown-2" class="custom-dropdown relative" data-options='["AP 2-D Art and Design","AP 3-D Art and Design","AP African American Studies","AP Art History","AP Biology","AP Calculus AB","AP Calculus BC","AP Chemistry","AP Computer Science A","AP Drawing","AP English Language and Composition","AP English Literature and Composition","AP Environmental Science","AP French Language and Culture","AP German Language and Culture","AP Human Geography","AP Macroeconomics","AP Microeconomics","AP Music Theory","AP Physics 1","AP Physics 2","AP Physics C: Electricity and Magnetism","AP Physics C: Mechanics","AP Precalculus","AP Psychology","AP Spanish Language and Culture","AP Spanish Literature and Culture","AP Statistics","AP United States Government and Politics","AP United States History","AP World History: Modern"]'>
                                     <div class="relative">
-                                        <input type="text" id="dropdown-input-2" class="w-full p-2 pr-10 border border-gray-300 rounded-md bg-white focus:outline-none focus:ring-2 focus:ring-[#CC5500] transition-all duration-300" placeholder="Select a Color">
+                                        <input type="text" id="dropdown-input-2" class="w-full p-2 pr-10 border border-gray-300 rounded-md bg-white focus:outline-none focus:ring-2 focus:ring-[#CC5500] transition-all duration-300" placeholder="Select an AP Exam">
                                         <span class="dropdown-arrow-container pointer-events-none absolute inset-y-0 right-0 flex items-center pr-3">
                                             <svg class="dropdown-arrow h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
                                                  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
@@ -64,12 +57,11 @@
                                 </div>
                             </div>
                             
-                            <!-- Dropdown 3 -->
                             <div>
-                                <label for="dropdown-input-3" class="block text-sm font-medium text-gray-700 mb-1">Searchable Dropdown 3 (Cities)</label>
-                                <div id="dropdown-3" class="custom-dropdown relative" data-options='["New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio", "San Diego", "Dallas", "San Jose", "Austin", "Jacksonville", "San Francisco"]'>
+                                <label for="dropdown-input-3" class="block text-sm font-medium text-gray-700 mb-1">Transfer Course</label>
+                                <div id="dropdown-3" class="custom-dropdown relative" data-options='["ACCT 2301 - Principles of Accounting I-Financial","ACCT 2302 - Principles of Accounting II-Managerial","ANTH 2351 - Cultural Anthropology","ARTS 1301 - Art Appreciation","ARTS 1316 - Drawing I","ARTS 2316 - Painting I","ARTS 2326 - Sculpture I","ARTS 2346 - Ceramics I","ASTR 1303 - Stellar Astronomy","ASTR 1403 - Stellar Astronomy with Lab","BIOL 1322 - Contemporary Issues in Nutrition","BIOL 1406 - Cellular and Molecular Biology","BIOL 1407 - Structure and Function of Organisms","BIOL 2401 - Anatomy & Physiology I","BIOL 2402 - Anatomy & Physiology II","BIOL 2420 - Microbiology for the Health Sciences","BIOL 2421 - Microbiology","BUSI 1301 - Business Principles","BUSI 2301 - Business Law","CHEM 1105 - Introductory Chemistry I Lab","CHEM 1111 - General Chemistry I Lab","CHEM 1112 - General Chemistry II Lab","CHEM 1305 - Introductory Chemistry I Lecture","CHEM 1311 - General Chemistry I Lecture","CHEM 1312 - General Chemistry II Lecture","COSC 1337 - Programming Fundamentals II","DRAM 1310 - Introduction to Theatre","DRAM 1351 - Acting I","DRAM 1352 - Acting II","ECON 2301 - Principles of Macroeconomics","ECON 2302 - Principles of Microeconomics","EDUC 1300 - Effective Learning-Strategies for College Success","EDUC 1301 - Introduction to the Teaching Profession","ENGL 1301 - English Composition I","ENGL 1302 - English Composition II","ENGL 2307 - Beginning Creative Writing","ENGL 2311 - Technical & Business Writing","ENGL 2322 - British Literature I","ENGL 2323 - British Literature II","ENGL 2327 - American Literature I","ENGL 2328 - American Literature II","ENVR 1301 - Introduction to Environmental Science","FREN 1411 - French I","FREN 1412 - French II","FREN 2311 - French III","FREN 2312 - French IV","GERM 1411 - German I","GERM 1412 - German II","GOVT 2305 - United State Government","GOVT 2306 - Texas State and Local Government","HIST 1301 - United States History I","HIST 1302 - United States History II","HUMA 1301 - Humanities: Prehistory to Renaissance","HUMA 1302 - Humanities: Renaissance to Present","JAPN 1411 - Japanese I","JAPN 1412 - Japanese II","KINE 1301 - Foundations of Physical Education","KINE 1304 - Personal Health","KINE 1306 - First Aid and Safety","KINE 1321 - Coaching","LATI 1411 - Latin I","LATI 1412 - Latin II","MATH 1314 - College Algebra","MATH 1324 - Mathematics for Business and Economics","MATH 1332 - College Mathematics","MATH 1342 - Elementary Statistics","MATH 1414 - College Algebra for Precalculus","MATH 2305 - Discrete Mathematics","MATH 2412 - Precalculus: Functions and Graphs","MATH 2413 - Calculus I","MATH 2414 - Calculus II","MATH 2415 - Calculus III","MUSI 1306 - Music Appreciation","MUSI 1310 - American Music","PHYS 1401 - General College Physics I","PHYS 1402 - General College Physics II","PHYS 2425 - Engineering Physics I","PHYS 2426 - Engineering Physics II","PSYC 2301 - Introduction to Psychology","SGNL 1401 - American Sign Language (ASL) I","SGNL 1402 - American Sign Language (ASL) II","SOCI 1301 - Introduction to Sociology","SOCW 2361 - Introduction to Social Work","SPAN 1411 - Spanish I","SPAN 1412 - Spanish II","SPAN 2311 - Spanish III","SPAN 2312 - Spanish IV","SPCH 1311 - Introduction to Speech Communication","SPCH 1315 - Public Speaking","SPCH 1318 - Interpersonal Communication","SPCH 1321 - Business and Professional Communication","SPCH 2333 - Discussion and Small Group Communication"]'>
                                     <div class="relative">
-                                        <input type="text" id="dropdown-input-3" class="w-full p-2 pr-10 border border-gray-300 rounded-md bg-white focus:outline-none focus:ring-2 focus:ring-[#CC5500] transition-all duration-300" placeholder="Select a City">
+                                        <input type="text" id="dropdown-input-3" class="w-full p-2 pr-10 border border-gray-300 rounded-md bg-white focus:outline-none focus:ring-2 focus:ring-[#CC5500] transition-all duration-300" placeholder="Select a Course">
                                         <span class="dropdown-arrow-container pointer-events-none absolute inset-y-0 right-0 flex items-center pr-3">
                                             <svg class="dropdown-arrow h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
                                                  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
@@ -84,14 +76,12 @@
                         </div>
                     </div>
 
-                    <!-- Left Lower Box -->
                     <div class="bg-white rounded-lg shadow-md p-6">
                         <h2 class="text-xl font-semibold mb-4 text-gray-800">Left Lower Box</h2>
                         <div class="bg-gray-100 p-4 rounded-lg min-h-[100px]"></div>
                     </div>
                 </div>
 
-                <!-- Right Box -->
                 <div class="bg-white rounded-lg shadow-md p-6">
                     <h2 class="text-xl font-semibold mb-4 text-gray-800">Right Box</h2>
                     <div class="bg-gray-100 p-4 rounded-lg min-h-[300px]"></div>
@@ -99,7 +89,6 @@
             </div>
         </main>
 
-        <!-- Footer -->
         <footer class="bg-gray-800 text-white text-center p-4 mt-8">
             <p>© 2023 Example Layout. All rights reserved.</p>
         </footer>
