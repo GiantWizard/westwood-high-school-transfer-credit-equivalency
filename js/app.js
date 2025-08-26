@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (universityDataCache[universityName]) return universityDataCache[universityName];
         try {
             const formattedName = universityName.toLowerCase().replace(/ /g, '-');
-            const response = await fetch(`public/transfer_data/${formattedName}.json`);
+            const response = await fetch(`transfer_data/${formattedName}.json`);
             if (!response.ok) throw new Error('Network response was not ok');
             const data = await response.json();
             universityDataCache[universityName] = data;
