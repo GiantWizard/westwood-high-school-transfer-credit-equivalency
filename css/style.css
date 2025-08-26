@@ -148,36 +148,41 @@
     border-bottom: 1px solid #e5e7eb;
 }
 
+/* MODIFIED: Padding is adjusted for the internal button */
 .staged-course-item {
     display: inline-flex;
     align-items: center;
     background-color: #e5e7eb;
     color: #374151;
-    padding: 0.3rem 0.8rem;
+    padding: 0.3rem 0.4rem 0.3rem 0.8rem;
     border-radius: 9999px;
     font-size: 0.875rem;
     font-weight: 500;
 }
 
-.remove-staged-item-btn {
+/* NEW: Styles for the remove button inside the staged course pill */
+.staged-pill-remove-btn {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 24px;
-    height: 24px;
-    border: none;
-    background-color: #f3f4f6;
-    color: #6b7280;
+    margin-left: 0.5rem;
+    width: 1rem; /* 16px */
+    height: 1rem; /* 16px */
     border-radius: 50%;
+    border: none;
+    background-color: #d1d5db; /* gray-300 */
+    color: #4b5563; /* gray-600 */
     cursor: pointer;
-    font-size: 1.25rem;
+    font-size: 0.875rem;
     line-height: 1;
     transition: background-color 0.2s, color 0.2s;
 }
-.remove-staged-item-btn:hover {
-    background-color: #ef4444;
-    color: white;
+
+.staged-pill-remove-btn:hover {
+    background-color: #9ca3af; /* gray-400 */
+    color: #1f2937; /* gray-800 */
 }
+
 
 /* --- AP Credit & Score Selection Styles --- */
 .exam-card {
@@ -222,8 +227,12 @@
     background-color: #fff;
     cursor: pointer;
     font-size: 0.875rem;
+    white-space: nowrap;
 }
 
+.score-display .dropdown-arrow {
+    /* No longer needs special positioning */
+}
 
 .score-display .placeholder {
     color: #6b7280;
