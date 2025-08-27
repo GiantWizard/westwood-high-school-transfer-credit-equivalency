@@ -232,8 +232,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 const flatEquivalentCourses = Array.isArray(policy.equivalentCourses) ? policy.equivalentCourses : [policy.equivalentCourse];
                 const displayCode = isApCourse 
-                    ? flatEquivalentCourses.join(', ') 
-                    : flatEquivalentCourses[0].split(' ')[0]; // Simplified for transfer
+                ? flatEquivalentCourses.join(', ') 
+                : flatEquivalentCourses[0].split(' ').slice(0, 2).join(' ');
                 
                 card += `<div class="equivalency-info"><span>Equivalent courses at ${selectedUniversity}:</span><strong>${displayCode}</strong></div>`;
 
