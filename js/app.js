@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const renderStagedCourses = () => {
         stagedContainer.innerHTML = '';
         if (stagedCourses.length === 0) {
-            stagedContainer.innerHTML = `<p class="text-gray-500">Your selected courses will appear here.</p>`;
+            stagedContainer.innerHTML = `<p class="text-gray-500">Your selected courses will appear hereand the equvivalent credits for those courses will be calculated in the University Credit Polices section.</p>`;
             renderEquivalents();
             return;
         }
