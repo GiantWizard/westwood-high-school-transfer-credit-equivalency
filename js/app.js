@@ -288,6 +288,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     
     // --- Event Listeners & Initializers ---
+    // ▼▼▼ THIS IS THE CORRECTED/UPDATED SECTION ▼▼▼
     document.querySelectorAll('.custom-dropdown').forEach(dropdown => {
         const searchInput = dropdown.querySelector('input[type="text"]');
         const optionsList = dropdown.querySelector('.custom-dropdown-options');
@@ -298,9 +299,12 @@ document.addEventListener('DOMContentLoaded', () => {
             filteredOptions.forEach(optionText => {
                 const li = document.createElement('li');
                 li.textContent = optionText;
-                li.addEventListener('mousedown', () => {
+                li.addEventListener('mousedown', async () => {
                     searchInput.value = optionText;
                     selectedUniversity = optionText;
+                    // Fetch data immediately on selection
+                    await fetchEquivalencyData(optionText);
+                    // Then render
                     renderEquivalents();
                 });
                 optionsList.appendChild(li);
@@ -332,6 +336,7 @@ document.addEventListener('DOMContentLoaded', () => {
             else searchInput.focus();
         });
     });
+    // ▲▲▲ END OF CORRECTED SECTION ▲▲▲
 
     const createMultiSelect = (dropdownElement) => {
         const header = dropdownElement.querySelector('.multi-select-header');
