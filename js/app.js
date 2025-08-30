@@ -13,6 +13,19 @@ document.addEventListener('DOMContentLoaded', () => {
         "University of Arkansas": 1051.67,
         "Baylor University": 2120.67
     };
+    
+    // ▼▼▼ NEW: HARDCODED FILENAME MAP ▼▼▼
+    const UNIVERSITY_FILENAME_MAP = {
+        "University of Arkansas": "university-of-arkansas.json",
+        "Baylor University": "baylor-university.json",
+        "Purdue University": "purdue-university.json",
+        "Texas A&M University": "texas-am-university.json",
+        "Texas State University": "texas-state-university.json",
+        "Texas Tech University": "texas-tech-university.json",
+        "UT Austin": "ut-austin.json",
+        "UT Dallas": "ut-dallas.json",
+        "UT San Antonio": "ut-san-antonio.json"
+    };
 
     const apAbbreviations = {
         "AP 2-D Art and Design": "AP 2-D Art", "AP 3-D Art and Design": "AP 3-D Art", "AP African American Studies": "AP Af-Am Studies", "AP Art History": "AP Art History", "AP Biology": "AP Bio", "AP Calculus AB": "AP Calc AB", "AP Calculus BC": "AP Calc BC", "AP Chemistry": "AP Chem", "AP Computer Science A": "AP CSA", "AP Drawing": "AP Drawing", "AP English Language and Composition": "AP Lang", "AP English Literature and Composition": "AP Lit", "AP Environmental Science": "APES", "AP French Language and Culture": "AP French", "AP German Language and Culture": "AP German", "AP Human Geography": "AP HuG", "AP Macroeconomics": "AP Macro", "AP Microeconomics": "AP Micro", "AP Music Theory": "AP Music Theory", "AP Physics 1": "AP Phys 1", "AP Physics 2": "AP Phys 2", "AP Physics C: Electricity and Magnetism": "AP Phys C: E&M", "AP Physics C: Mechanics": "AP Phys C: Mech", "AP Precalculus": "AP Precalc", "AP Psychology": "AP Psych", "AP Spanish Language and Culture": "AP Spanish Lang", "AP Spanish Literature and Culture": "AP Spanish Lit", "AP Statistics": "AP Stats", "AP United States Government and Politics": "AP Gov", "AP United States History": "APUSH", "AP World History: Modern": "WHAP",
@@ -271,11 +284,19 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // --- Data Fetching Function ---
+    // ▼▼▼ UPDATED: USES THE HARDCODED MAP ▼▼▼
     const fetchEquivalencyData = async (universityName) => {
         if (universityDataCache[universityName]) return universityDataCache[universityName];
+        
+        const fileName = UNIVERSITY_FILENAME_MAP[universityName];
+        if (!fileName) {
+            console.error(`No filename mapping found for ${universityName}`);
+            equivalentsContainer.innerHTML = `<p class="text-red-500">Configuration error for ${universityName}.</p>`;
+            return null;
+        }
+
         try {
-            const formattedName = universityName.toLowerCase().replace(/\s*&\s*/g, ' ').replace(/ /g, '-');
-            const response = await fetch(`transfer_data/${formattedName}.json`);
+            const response = await fetch(`transfer_data/${fileName}`);
             if (!response.ok) throw new Error('Network response was not ok');
             const data = await response.json();
             universityDataCache[universityName] = data;
