@@ -274,7 +274,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fetchEquivalencyData = async (universityName) => {
         if (universityDataCache[universityName]) return universityDataCache[universityName];
         try {
-            const formattedName = universityName.toLowerCase().replace(/ /g, '-');
+            const formattedName = universityName.toLowerCase().replace(/\s*&\s*/g, ' ').replace(/ /g, '-');
             const response = await fetch(`transfer_data/${formattedName}.json`);
             if (!response.ok) throw new Error('Network response was not ok');
             const data = await response.json();
@@ -288,7 +288,6 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     
     // --- Event Listeners & Initializers ---
-    // ▼▼▼ THIS IS THE CORRECTED/UPDATED SECTION ▼▼▼
     document.querySelectorAll('.custom-dropdown').forEach(dropdown => {
         const searchInput = dropdown.querySelector('input[type="text"]');
         const optionsList = dropdown.querySelector('.custom-dropdown-options');
@@ -348,7 +347,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
-    // ▲▲▲ END OF CORRECTED SECTION ▲▲▲
 
     const createMultiSelect = (dropdownElement) => {
         const header = dropdownElement.querySelector('.multi-select-header');
