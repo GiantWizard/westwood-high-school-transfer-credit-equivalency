@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const isApCourse = apAbbreviations.hasOwnProperty(sourceName);
 
             // Build the main card structure (same for all)
-            card += `<div class="equivalent-card"><h3>${sourceName}</h3>`;
+            card += `<div class="equivalent-card"><h3>${getDisplayName(sourceName)}</h3>`;
             if (policy) {
                 const selectedScore = isApCourse ? parseInt(stagedCourseScores[sourceName], 10) : null;
                 card += `<div class="details-bar ${isApCourse ? '' : 'transfer-details'}">`;
@@ -293,31 +293,38 @@ document.addEventListener('DOMContentLoaded', () => {
         const searchInput = dropdown.querySelector('input[type="text"]');
         const optionsList = dropdown.querySelector('.custom-dropdown-options');
         const options = JSON.parse(searchInput.dataset.options || '[]');
+
         const populateOptions = (filter = '') => {
             optionsList.innerHTML = '';
             const filteredOptions = options.filter(option => option.toLowerCase().includes(filter.toLowerCase()));
             filteredOptions.forEach(optionText => {
                 const li = document.createElement('li');
                 li.textContent = optionText;
+                // Make the listener async to handle the data fetch
                 li.addEventListener('mousedown', async () => {
                     searchInput.value = optionText;
                     selectedUniversity = optionText;
-                    // Fetch data immediately on selection
+                    // 1. Fetch data immediately on selection
                     await fetchEquivalencyData(optionText);
-                    // Then render
+                    // 2. Then, re-render the equivalencies display
                     renderEquivalents();
                 });
                 optionsList.appendChild(li);
             });
         };
+
         const dropdownMenu = dropdown.querySelector('.custom-dropdown-menu');
         const arrowContainer = dropdown.querySelector('.dropdown-arrow-container');
         const arrow = arrowContainer.querySelector('.dropdown-arrow');
+
         searchInput.addEventListener('focus', () => {
             dropdownMenu.classList.add('open');
             arrow.classList.add('open');
             populateOptions(searchInput.value);
         });
+
+        // This logic ensures if the user clicks away without a valid selection,
+        // the state is cleared.
         searchInput.addEventListener('blur', () => {
             setTimeout(() => {
                 dropdownMenu.classList.remove('open');
@@ -325,15 +332,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (!options.includes(searchInput.value)) { 
                     searchInput.value = '';
                     selectedUniversity = null;
-                    renderEquivalents();
+                    renderEquivalents(); // Clear the display if selection is invalid
                 }
-            }, 150);
+            }, 150); // A short delay is needed for click events to register
         });
+
         searchInput.addEventListener('input', () => populateOptions(searchInput.value));
+
         arrowContainer.addEventListener('click', (e) => {
             e.stopPropagation();
-            if (dropdownMenu.classList.contains('open')) searchInput.blur();
-            else searchInput.focus();
+            if (dropdownMenu.classList.contains('open')) {
+                searchInput.blur();
+            } else {
+                searchInput.focus();
+            }
         });
     });
     // ▲▲▲ END OF CORRECTED SECTION ▲▲▲
