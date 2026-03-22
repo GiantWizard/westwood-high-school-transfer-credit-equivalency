@@ -45,26 +45,20 @@ document.addEventListener('DOMContentLoaded', () => {
     const createScoreDropdown = (scores, placeholder = 'Select Score', onChange, initialValue = null) => {
         const container = document.createElement('div');
         container.className = 'score-dropdown';
-        // create display element
         const display = document.createElement('div');
         display.className = 'score-display';
-
-        const label = document.createElement('span');
-        label.className = 'placeholder';
-        label.textContent = initialValue ?? placeholder;
-
-        // Replace previous arrow injection with this
-        const arrowWrap = document.createElement('span');
-        arrowWrap.className = 'dropdown-arrow';
-        arrowWrap.innerHTML = `
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
-            </svg>
-        `;
-
-        display.appendChild(label);
-        display.appendChild(arrowWrap);
-
+        const text = document.createElement('span');
+        if (initialValue) {
+            text.textContent = initialValue;
+        } else {
+            text.className = 'placeholder';
+            text.textContent = placeholder;
+        }
+        const arrowSVG = `<svg class="dropdown-arrow h-4 w-4 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" /></svg>`;
+        display.appendChild(text);
+        const arrowWrapper = document.createElement('span');
+        arrowWrapper.innerHTML = arrowSVG;
+        display.appendChild(arrowWrapper.firstElementChild);
         const menu = document.createElement('div');
         menu.className = 'custom-dropdown-menu';
         const ul = document.createElement('ul');
@@ -73,8 +67,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const li = document.createElement('li');
             li.textContent = score;
             li.addEventListener('mousedown', () => {
-                label.textContent = score;
-                label.classList.remove('placeholder');
+                text.textContent = score;
+                text.classList.remove('placeholder');
                 if (onChange) onChange(score);
             });
             ul.appendChild(li);
@@ -326,13 +320,18 @@ document.addEventListener('DOMContentLoaded', () => {
             filteredOptions.forEach(optionText => {
                 const li = document.createElement('li');
                 li.textContent = optionText;
-                // Make the listener async to handle the data fetch
                 li.addEventListener('mousedown', async () => {
+                    if (selectedUniversity !== optionText) {
+                        stagedCourses = [];
+                        stagedCourseScores = {};
+                        apSelect.clearSelection();
+                        courseSelect.clearSelection();
+                        renderStagedCourses();
+                    }
+                    
                     searchInput.value = optionText;
                     selectedUniversity = optionText;
-                    // 1. Fetch data immediately on selection
                     await fetchEquivalencyData(optionText);
-                    // 2. Then, re-render the equivalencies display
                     renderEquivalents();
                 });
                 optionsList.appendChild(li);
@@ -341,12 +340,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const dropdownMenu = dropdown.querySelector('.custom-dropdown-menu');
         const arrowContainer = dropdown.querySelector('.dropdown-arrow-container');
-        // fallback: some markup may put .dropdown-arrow directly on the element
-        const arrow = (arrowContainer && arrowContainer.querySelector('.dropdown-arrow')) || dropdown.querySelector('.dropdown-arrow');
+        const arrow = arrowContainer.querySelector('.dropdown-arrow');
 
         searchInput.addEventListener('focus', () => {
-            if (dropdownMenu) dropdownMenu.classList.add('open');
-            if (arrow) arrow.classList.add('open');
+            dropdownMenu.classList.add('open');
+            arrow.classList.add('open');
             populateOptions(searchInput.value);
         });
 
@@ -354,9 +352,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // the state is cleared.
         searchInput.addEventListener('blur', () => {
             setTimeout(() => {
-                if (dropdownMenu) dropdownMenu.classList.remove('open');
-                if (arrow) arrow.classList.remove('open');
-                if (!options.includes(searchInput.value)) {
+                dropdownMenu.classList.remove('open');
+                arrow.classList.remove('open');
+                if (!options.includes(searchInput.value)) { 
                     searchInput.value = '';
                     selectedUniversity = null;
                     renderEquivalents(); // Clear the display if selection is invalid
@@ -366,18 +364,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
         searchInput.addEventListener('input', () => populateOptions(searchInput.value));
 
-        // Attach click handler to whichever element exists
-        const clickTarget = arrowContainer || arrow;
-        if (clickTarget) {
-            clickTarget.addEventListener('click', (e) => {
-                e.stopPropagation();
-                if (dropdownMenu && dropdownMenu.classList.contains('open')) {
-                    searchInput.blur();
-                } else {
-                    searchInput.focus();
-                }
-            });
-        }
+        arrowContainer.addEventListener('click', (e) => {
+            e.stopPropagation();
+            if (dropdownMenu.classList.contains('open')) {
+                searchInput.blur();
+            } else {
+                searchInput.focus();
+            }
+        });
     });
 
     const createMultiSelect = (dropdownElement) => {
