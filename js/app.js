@@ -218,10 +218,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 policy = universityData.courseEquivalencies.find(p => p.courseCode === courseCodeOnly);
             }
             if (policy) {
+                // Determine credit hours from policy, defaulting to 0 if not a number
+                let credits = 0;
+                if (typeof policy.creditHours === 'number') {
+                    credits = policy.creditHours;
+                } else if (policy.creditHours && !isNaN(parseInt(policy.creditHours, 10))) {
+                    credits = parseInt(policy.creditHours, 10);
+                }
+
+                // Parse the equivalent courses to count how many classes there are
+                let flatEquivalentCourses = [];
+                if (Array.isArray(policy.equivalentCourses)) {
+                    flatEquivalentCourses = policy.equivalentCourses;
+                } else if (policy.equivalentCourses) {
+                    flatEquivalentCourses = typeof policy.equivalentCourses === 'string' 
+                        ? policy.equivalentCourses.split('&').map(s => s.trim()) 
+                        : [policy.equivalentCourses];
+                } else if (policy.equivalentCourse) {
+                    flatEquivalentCourses = [policy.equivalentCourse];
+                }
+                
+                let numberOfClasses = flatEquivalentCourses.length > 0 ? flatEquivalentCourses.length : 1;
+                
                 potentialCredits.push({
                     sourceName: courseName,
                     policy: policy,
-                    savings: (policy.creditHours * costPerHour)
+                    savings: (numberOfClasses * costPerHour)
                 });
             } else {
                 potentialCredits.push({ sourceName: courseName, policy: null, savings: 0 });
@@ -250,14 +272,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 if(isApCourse) card += `<span>Score: ${isNaN(selectedScore) ? '-' : selectedScore}</span>`;
                 
                 // Handle missing or invalid credit hours
-                const creditHours = policy.creditHours ? policy.creditHours : (policy.equivalentCourses && typeof policy.equivalentCourses === 'string' ? "varies" : "0");
-                card += `<span>${creditHours} Credit Hours</span></div>`;
+                let displayCredits = policy.creditHours;
+                if (displayCredits === undefined || displayCredits === null) {
+                    displayCredits = (policy.equivalentCourses && typeof policy.equivalentCourses === 'string') ? "varies" : "0";
+                }
+                card += `<span>${displayCredits} Credit Hours</span></div>`;
                 
                 let flatEquivalentCourses = [];
                 if (Array.isArray(policy.equivalentCourses)) {
                     flatEquivalentCourses = policy.equivalentCourses;
                 } else if (policy.equivalentCourses) {
-                    flatEquivalentCourses = [policy.equivalentCourses];
+                    flatEquivalentCourses = typeof policy.equivalentCourses === 'string' 
+                        ? policy.equivalentCourses.split('&').map(s => s.trim()) 
+                        : [policy.equivalentCourses];
                 } else if (policy.equivalentCourse) {
                     flatEquivalentCourses = [policy.equivalentCourse];
                 }
@@ -271,15 +298,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Check for duplicates
                 const isDuplicate = flatEquivalentCourses.some(course => grantedCourses.has(course));
                 if (isDuplicate) {
-                    duplicateSavings += isNaN(savings) ? 0 : savings;
+                    if (savings > 0) duplicateSavings += savings;
                 } else {
-                    grossSavings += isNaN(savings) ? 0 : savings;
+                    if (savings > 0) grossSavings += savings;
                     flatEquivalentCourses.forEach(c => grantedCourses.add(c));
                 }
-                if (costPerHour > 0 && !isNaN(savings)) {
+                if (costPerHour > 0 && savings > 0) {
                     savingsFooter = `<div class="savings-bar"><span>Amount Saved</span><strong class="savings-amount-box">$${savings.toFixed(2)}</strong></div>`;
                 } else {
-                    savingsFooter = `<div class="savings-bar"><span class="text-gray-500">Amount Saved varies</span></div>`;
+                    savingsFooter = `<div class="savings-bar"><span class="text-gray-500">Amount Saved varies / Unknown</span></div>`;
                 }
             } else {
                 // No policy found
