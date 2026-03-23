@@ -241,25 +241,38 @@ document.addEventListener('DOMContentLoaded', () => {
                 const selectedScore = isApCourse ? parseInt(stagedCourseScores[sourceName], 10) : null;
                 card += `<div class="details-bar ${isApCourse ? '' : 'transfer-details'}">`;
                 if(isApCourse) card += `<span>Score: ${isNaN(selectedScore) ? '-' : selectedScore}</span>`;
-                card += `<span>${policy.creditHours} Credit Hours</span></div>`;
                 
-                const flatEquivalentCourses = Array.isArray(policy.equivalentCourses) ? policy.equivalentCourses : [policy.equivalentCourse];
+                // Handle missing or invalid credit hours
+                const creditHours = policy.creditHours ? policy.creditHours : (policy.equivalentCourses && typeof policy.equivalentCourses === 'string' ? "varies" : "0");
+                card += `<span>${creditHours} Credit Hours</span></div>`;
+                
+                let flatEquivalentCourses = [];
+                if (Array.isArray(policy.equivalentCourses)) {
+                    flatEquivalentCourses = policy.equivalentCourses;
+                } else if (policy.equivalentCourses) {
+                    flatEquivalentCourses = [policy.equivalentCourses];
+                } else if (policy.equivalentCourse) {
+                    flatEquivalentCourses = [policy.equivalentCourse];
+                }
+
                 const displayCode = isApCourse 
                 ? flatEquivalentCourses.join(', ') 
-                : flatEquivalentCourses[0].split(' ').slice(0, 2).join(' ');
+                : (flatEquivalentCourses.length > 0 ? flatEquivalentCourses[0].split(' ').slice(0, 2).join(' ') : 'Unknown');
                 
                 card += `<div class="equivalency-info"><span>Equivalent courses at ${selectedUniversity}:</span><strong>${displayCode}</strong></div>`;
 
                 // Check for duplicates
                 const isDuplicate = flatEquivalentCourses.some(course => grantedCourses.has(course));
                 if (isDuplicate) {
-                    duplicateSavings += savings;
+                    duplicateSavings += isNaN(savings) ? 0 : savings;
                 } else {
-                    grossSavings += savings;
+                    grossSavings += isNaN(savings) ? 0 : savings;
                     flatEquivalentCourses.forEach(c => grantedCourses.add(c));
                 }
-                if (costPerHour > 0) {
+                if (costPerHour > 0 && !isNaN(savings)) {
                     savingsFooter = `<div class="savings-bar"><span>Amount Saved</span><strong class="savings-amount-box">$${savings.toFixed(2)}</strong></div>`;
+                } else {
+                    savingsFooter = `<div class="savings-bar"><span class="text-gray-500">Amount Saved varies</span></div>`;
                 }
             } else {
                 // No policy found
@@ -345,7 +358,7 @@ document.addEventListener('DOMContentLoaded', () => {
         searchInput.addEventListener('focus', () => {
             dropdownMenu.classList.add('open');
             arrow.classList.add('open');
-            populateOptions(searchInput.value);
+            populateOptions(''); // Changed to pass empty string when focused
         });
 
         // This logic ensures if the user clicks away without a valid selection,
@@ -364,12 +377,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
         searchInput.addEventListener('input', () => populateOptions(searchInput.value));
 
-        arrowContainer.addEventListener('click', (e) => {
+        arrowContainer.addEventListener('mousedown', (e) => {
+            // Prevent searchInput blur immediately on mousedown on the arrow container
+            e.preventDefault();
             e.stopPropagation();
+            
             if (dropdownMenu.classList.contains('open')) {
                 searchInput.blur();
+                dropdownMenu.classList.remove('open');
+                arrow.classList.remove('open');
             } else {
                 searchInput.focus();
+                // Focusing will open the menu because of the focus event listener
             }
         });
     });
