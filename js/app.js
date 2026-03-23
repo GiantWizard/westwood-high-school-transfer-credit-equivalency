@@ -199,8 +199,15 @@ document.addEventListener('DOMContentLoaded', () => {
                             if (abPolicies.length > 0) {
                                 abPolicies.sort((a, b) => b.score - a.score);
                                 const abPolicy = abPolicies[0];
-                                policy.creditHours += abPolicy.creditHours;
-                                const combinedCourses = [...policy.equivalentCourses, ...abPolicy.equivalentCourses];
+                                
+                                const bcCredits = policy.creditHours ? policy.creditHours : 0;
+                                const abCredits = abPolicy.creditHours ? abPolicy.creditHours : 0;
+                                policy.creditHours = bcCredits + abCredits;
+                                
+                                const bcCourses = Array.isArray(policy.equivalentCourses) ? policy.equivalentCourses : (policy.equivalentCourses ? [policy.equivalentCourses] : []);
+                                const abCourses = Array.isArray(abPolicy.equivalentCourses) ? abPolicy.equivalentCourses : (abPolicy.equivalentCourses ? [abPolicy.equivalentCourses] : []);
+                                
+                                const combinedCourses = [...bcCourses, ...abCourses];
                                 policy.equivalentCourses = [...new Set(combinedCourses)];
                             }
                         }
